@@ -1,0 +1,4003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Number>1</Number>
+    <Year>1967</Year>
+    <Album>Sgt. Pepper&apos;s Lonely Hearts Club Band</Album>
+    <Artist>The Beatles</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Rock &amp; Roll, Psychedelic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>2</Number>
+    <Year>1966</Year>
+    <Album>Pet Sounds</Album>
+    <Artist>The Beach Boys</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Pop Rock, Psychedelic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>3</Number>
+    <Year>1966</Year>
+    <Album>Revolver</Album>
+    <Artist>The Beatles</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Psychedelic Rock, Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>4</Number>
+    <Year>1965</Year>
+    <Album>Highway 61 Revisited</Album>
+    <Artist>Bob Dylan</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Folk Rock, Blues Rock</Subgenre>
+  </row>
+  <row>
+    <Number>5</Number>
+    <Year>1965</Year>
+    <Album>Rubber Soul</Album>
+    <Artist>The Beatles</Artist>
+    <Genre>Rock, Pop</Genre>
+    <Subgenre>Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>6</Number>
+    <Year>1971</Year>
+    <Album>What&apos;s Going On</Album>
+    <Artist>Marvin Gaye</Artist>
+    <Genre>Funk / Soul</Genre>
+    <Subgenre>Soul</Subgenre>
+  </row>
+  <row>
+    <Number>7</Number>
+    <Year>1972</Year>
+    <Album>Exile on Main St.</Album>
+    <Artist>The Rolling Stones</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Blues Rock, Rock &amp; Roll, Classic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>8</Number>
+    <Year>1979</Year>
+    <Album>London Calling</Album>
+    <Artist>The Clash</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Punk, New Wave</Subgenre>
+  </row>
+  <row>
+    <Number>9</Number>
+    <Year>1966</Year>
+    <Album>Blonde on Blonde</Album>
+    <Artist>Bob Dylan</Artist>
+    <Genre>Rock, Blues</Genre>
+    <Subgenre>Folk Rock, Rhythm &amp; Blues</Subgenre>
+  </row>
+  <row>
+    <Number>10</Number>
+    <Year>1968</Year>
+    <Album>The Beatles (&quot;The White Album&quot;)</Album>
+    <Artist>The Beatles</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Rock &amp; Roll, Pop Rock, Psychedelic Rock, Experimental</Subgenre>
+  </row>
+  <row>
+    <Number>11</Number>
+    <Year>1976</Year>
+    <Album>The Sun Sessions</Album>
+    <Artist>Elvis Presley</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Rock &amp; Roll</Subgenre>
+  </row>
+  <row>
+    <Number>12</Number>
+    <Year>1959</Year>
+    <Album>Kind of Blue</Album>
+    <Artist>Miles Davis</Artist>
+    <Genre>Jazz</Genre>
+    <Subgenre>Modal</Subgenre>
+  </row>
+  <row>
+    <Number>13</Number>
+    <Year>1967</Year>
+    <Album>The Velvet Underground &amp; Nico</Album>
+    <Artist>The Velvet Underground</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Garage Rock, Art Rock, Experimental</Subgenre>
+  </row>
+  <row>
+    <Number>14</Number>
+    <Year>1969</Year>
+    <Album>Abbey Road</Album>
+    <Artist>The Beatles</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Psychedelic Rock, Classic Rock, Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>15</Number>
+    <Year>1967</Year>
+    <Album>Are You Experienced</Album>
+    <Artist>The Jimi Hendrix Experience</Artist>
+    <Genre>Rock, Blues</Genre>
+    <Subgenre>Blues Rock, Psychedelic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>16</Number>
+    <Year>1975</Year>
+    <Album>Blood on the Tracks</Album>
+    <Artist>Bob Dylan</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Folk Rock, Acoustic, Ballad</Subgenre>
+  </row>
+  <row>
+    <Number>17</Number>
+    <Year>1991</Year>
+    <Album>Nevermind</Album>
+    <Artist>Nirvana</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Alternative Rock, Grunge</Subgenre>
+  </row>
+  <row>
+    <Number>18</Number>
+    <Year>1975</Year>
+    <Album>Born to Run</Album>
+    <Artist>Bruce Springsteen</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>19</Number>
+    <Year>1968</Year>
+    <Album>Astral Weeks</Album>
+    <Artist>Van Morrison</Artist>
+    <Genre>Jazz, Rock, Blues, Folk, World, &amp; Country</Genre>
+    <Subgenre>Acoustic, Classic Rock, Free Improvisation</Subgenre>
+  </row>
+  <row>
+    <Number>20</Number>
+    <Year>1982</Year>
+    <Album>Thriller</Album>
+    <Artist>Michael Jackson</Artist>
+    <Genre>Funk / Soul, Pop</Genre>
+    <Subgenre>Disco</Subgenre>
+  </row>
+  <row>
+    <Number>21</Number>
+    <Year>1982</Year>
+    <Album>The Great Twenty_Eight</Album>
+    <Artist>Chuck Berry</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Rock &amp; Roll</Subgenre>
+  </row>
+  <row>
+    <Number>22</Number>
+    <Year>1990</Year>
+    <Album>The Complete Recordings</Album>
+    <Artist>Robert Johnson</Artist>
+    <Genre>Blues</Genre>
+    <Subgenre>Delta Blues</Subgenre>
+  </row>
+  <row>
+    <Number>23</Number>
+    <Year>1970</Year>
+    <Album>John Lennon/Plastic Ono Band</Album>
+    <Artist>John Lennon / Plastic Ono Band</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>24</Number>
+    <Year>1973</Year>
+    <Album>Innervisions</Album>
+    <Artist>Stevie Wonder</Artist>
+    <Genre>Funk / Soul</Genre>
+    <Subgenre>Soul</Subgenre>
+  </row>
+  <row>
+    <Number>25</Number>
+    <Year>1963</Year>
+    <Album>Live at the Apollo, 1962</Album>
+    <Artist>James Brown</Artist>
+    <Genre>Funk / Soul</Genre>
+    <Subgenre>Rhythm &amp; Blues, Soul</Subgenre>
+  </row>
+  <row>
+    <Number>26</Number>
+    <Year>1977</Year>
+    <Album>Rumours</Album>
+    <Artist>Fleetwood Mac</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>27</Number>
+    <Year>1987</Year>
+    <Album>The Joshua Tree</Album>
+    <Artist>U2</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Alternative Rock, Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>28</Number>
+    <Year>1971</Year>
+    <Album>Who&apos;s Next</Album>
+    <Artist>The Who</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Hard Rock, Mod, Prog Rock, Psychedelic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>29</Number>
+    <Year>1969</Year>
+    <Album>Led Zeppelin</Album>
+    <Artist>Led Zeppelin</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Blues Rock, Hard Rock</Subgenre>
+  </row>
+  <row>
+    <Number>30</Number>
+    <Year>1971</Year>
+    <Album>Blue</Album>
+    <Artist>Joni Mitchell</Artist>
+    <Genre>Pop</Genre>
+    <Subgenre>Acoustic, Ballad, Folk</Subgenre>
+  </row>
+  <row>
+    <Number>31</Number>
+    <Year>1965</Year>
+    <Album>Bringing It All Back Home</Album>
+    <Artist>Bob Dylan</Artist>
+    <Genre>Rock, Folk, World, &amp; Country</Genre>
+    <Subgenre>Folk Rock, Folk</Subgenre>
+  </row>
+  <row>
+    <Number>32</Number>
+    <Year>1969</Year>
+    <Album>Let It Bleed</Album>
+    <Artist>The Rolling Stones</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Blues Rock, Hard Rock</Subgenre>
+  </row>
+  <row>
+    <Number>33</Number>
+    <Year>1976</Year>
+    <Album>Ramones</Album>
+    <Artist>Ramones</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Rock &amp; Roll, Punk</Subgenre>
+  </row>
+  <row>
+    <Number>34</Number>
+    <Year>1968</Year>
+    <Album>Music From Big Pink</Album>
+    <Artist>The Band</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Folk Rock, Acoustic, Blues Rock</Subgenre>
+  </row>
+  <row>
+    <Number>35</Number>
+    <Year>1972</Year>
+    <Album>The Rise and Fall of Ziggy Stardust and the Spiders From Mars</Album>
+    <Artist>David Bowie</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Classic Rock, Glam</Subgenre>
+  </row>
+  <row>
+    <Number>36</Number>
+    <Year>1971</Year>
+    <Album>Tapestry</Album>
+    <Artist>Carole King</Artist>
+    <Genre>Rock, Pop</Genre>
+    <Subgenre>Folk Rock, Soft Rock</Subgenre>
+  </row>
+  <row>
+    <Number>37</Number>
+    <Year>1976</Year>
+    <Album>Hotel California</Album>
+    <Artist>Eagles</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Classic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>38</Number>
+    <Year>2001</Year>
+    <Album>The Anthology</Album>
+    <Artist>Muddy Waters</Artist>
+    <Genre>Folk, World, &amp; Country</Genre>
+    <Subgenre>Folk</Subgenre>
+  </row>
+  <row>
+    <Number>39</Number>
+    <Year>1963</Year>
+    <Album>Please Please Me</Album>
+    <Artist>The Beatles</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Beat, Rock &amp; Roll</Subgenre>
+  </row>
+  <row>
+    <Number>40</Number>
+    <Year>1967</Year>
+    <Album>Forever Changes</Album>
+    <Artist>Love</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Folk Rock, Psychedelic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>41</Number>
+    <Year>1977</Year>
+    <Album>Never Mind the Bollocks Here&apos;s the Sex Pistols</Album>
+    <Artist>Sex Pistols</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Punk</Subgenre>
+  </row>
+  <row>
+    <Number>42</Number>
+    <Year>1967</Year>
+    <Album>The Doors</Album>
+    <Artist>The Doors</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Psychedelic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>43</Number>
+    <Year>1973</Year>
+    <Album>The Dark Side of the Moon</Album>
+    <Artist>Pink Floyd</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Prog Rock</Subgenre>
+  </row>
+  <row>
+    <Number>44</Number>
+    <Year>1975</Year>
+    <Album>Horses</Album>
+    <Artist>Patti Smith</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Art Rock</Subgenre>
+  </row>
+  <row>
+    <Number>45</Number>
+    <Year>1969</Year>
+    <Album>The Band (&quot;The Brown Album&quot;)</Album>
+    <Artist>The Band</Artist>
+    <Genre>Classical, Stage &amp; Screen</Genre>
+    <Subgenre>Soundtrack, Modern Classical, Contemporary, Score</Subgenre>
+  </row>
+  <row>
+    <Number>46</Number>
+    <Year>1984</Year>
+    <Album>Legend: The Best of Bob Marley and The Wailers</Album>
+    <Artist>Bob Marley &amp; The Wailers</Artist>
+    <Genre>Reggae</Genre>
+    <Subgenre>Reggae, Roots Reggae</Subgenre>
+  </row>
+  <row>
+    <Number>47</Number>
+    <Year>1965</Year>
+    <Album>A Love Supreme</Album>
+    <Artist>John Coltrane</Artist>
+    <Genre>Jazz</Genre>
+    <Subgenre>Free Jazz, Hard Bop, Modal</Subgenre>
+  </row>
+  <row>
+    <Number>48</Number>
+    <Year>1988</Year>
+    <Album>It Takes a Nation of Millions to Hold Us Back</Album>
+    <Artist>Public Enemy</Artist>
+    <Genre>Hip Hop</Genre>
+    <Subgenre>Conscious</Subgenre>
+  </row>
+  <row>
+    <Number>49</Number>
+    <Year>1971</Year>
+    <Album>At Fillmore East</Album>
+    <Artist>The Allman Brothers Band</Artist>
+    <Genre>Rock, Blues</Genre>
+    <Subgenre>Blues Rock</Subgenre>
+  </row>
+  <row>
+    <Number>50</Number>
+    <Year>1957</Year>
+    <Album>Here&apos;s Little Richard</Album>
+    <Artist>Little Richard</Artist>
+    <Genre>Rock, Blues</Genre>
+    <Subgenre>Rock &amp; Roll, Rhythm &amp; Blues</Subgenre>
+  </row>
+  <row>
+    <Number>51</Number>
+    <Year>1970</Year>
+    <Album>Bridge Over Troubled Water</Album>
+    <Artist>Simon &amp; Garfunkel</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Folk Rock, Classic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>52</Number>
+    <Year>1975</Year>
+    <Album>Greatest Hits</Album>
+    <Artist>Al Green</Artist>
+    <Genre>Funk / Soul</Genre>
+    <Subgenre>Soul</Subgenre>
+  </row>
+  <row>
+    <Number>53</Number>
+    <Year>1964</Year>
+    <Album>Meet The Beatles!</Album>
+    <Artist>The Beatles</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Beat, Rock &amp; Roll</Subgenre>
+  </row>
+  <row>
+    <Number>54</Number>
+    <Year>1991</Year>
+    <Album>The Birth of Soul</Album>
+    <Artist>Ray Charles</Artist>
+    <Genre>Jazz, Funk / Soul</Genre>
+    <Subgenre>Rhythm &amp; Blues, Big Band, Soul, Soul-Jazz</Subgenre>
+  </row>
+  <row>
+    <Number>55</Number>
+    <Year>1968</Year>
+    <Album>Electric Ladyland</Album>
+    <Artist>The Jimi Hendrix Experience</Artist>
+    <Genre>Rock, Blues</Genre>
+    <Subgenre>Electric Blues, Psychedelic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>56</Number>
+    <Year>1956</Year>
+    <Album>Elvis Presley</Album>
+    <Artist>Elvis Presley</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Rock &amp; Roll, Rockabilly</Subgenre>
+  </row>
+  <row>
+    <Number>57</Number>
+    <Year>1976</Year>
+    <Album>Songs in the Key of Life</Album>
+    <Artist>Stevie Wonder</Artist>
+    <Genre>Funk / Soul</Genre>
+    <Subgenre>Soul, Disco</Subgenre>
+  </row>
+  <row>
+    <Number>58</Number>
+    <Year>1968</Year>
+    <Album>Beggars Banquet</Album>
+    <Artist>The Rolling Stones</Artist>
+    <Genre>Rock, Funk / Soul, Pop</Genre>
+    <Subgenre>Blues Rock, Southern Rock, Classic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>59</Number>
+    <Year>1976</Year>
+    <Album>Chronicle: The 20 Greatest Hits</Album>
+    <Artist>Creedence Clearwater Revival</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>None</Subgenre>
+  </row>
+  <row>
+    <Number>60</Number>
+    <Year>1969</Year>
+    <Album>Trout Mask Replica</Album>
+    <Artist>Captain Beefheart &amp; His Magic Band</Artist>
+    <Genre>Rock, Blues</Genre>
+    <Subgenre>Dialogue, Field Recording, Avantgarde, Electric Blues, Psychedelic Rock, Experimental</Subgenre>
+  </row>
+  <row>
+    <Number>61</Number>
+    <Year>1970</Year>
+    <Album>Greatest Hits</Album>
+    <Artist>Sly &amp; The Family Stone</Artist>
+    <Genre>Funk / Soul</Genre>
+    <Subgenre>Rhythm &amp; Blues, Funk</Subgenre>
+  </row>
+  <row>
+    <Number>62</Number>
+    <Year>1987</Year>
+    <Album>Appetite for Destruction</Album>
+    <Artist>Guns N&apos; Roses</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Hard Rock, Heavy Metal</Subgenre>
+  </row>
+  <row>
+    <Number>63</Number>
+    <Year>1991</Year>
+    <Album>Achtung Baby</Album>
+    <Artist>U2</Artist>
+    <Genre>Electronic, Rock</Genre>
+    <Subgenre>Pop Rock, Synth-pop, Alternative Rock, Arena Rock</Subgenre>
+  </row>
+  <row>
+    <Number>64</Number>
+    <Year>1971</Year>
+    <Album>Sticky Fingers</Album>
+    <Artist>The Rolling Stones</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Classic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>65</Number>
+    <Year>1991</Year>
+    <Album>Back to Mono (1958-1969)</Album>
+    <Artist>Phil Spector</Artist>
+    <Genre>Rock, Funk / Soul, Pop</Genre>
+    <Subgenre>Doo Wop, Pop Rock, Ballad, Rhythm &amp; Blues</Subgenre>
+  </row>
+  <row>
+    <Number>66</Number>
+    <Year>1970</Year>
+    <Album>Moondance</Album>
+    <Artist>Van Morrison</Artist>
+    <Genre>Jazz, Rock, Funk / Soul, Folk, World, &amp; Country</Genre>
+    <Subgenre>Folk Rock, Rhythm &amp; Blues, Classic Rock, Contemporary Jazz</Subgenre>
+  </row>
+  <row>
+    <Number>67</Number>
+    <Year>2000</Year>
+    <Album>Kid A</Album>
+    <Artist>Radiohead</Artist>
+    <Genre>Electronic, Rock</Genre>
+    <Subgenre>Alternative Rock, IDM, Experimental</Subgenre>
+  </row>
+  <row>
+    <Number>68</Number>
+    <Year>1979</Year>
+    <Album>Off the Wall</Album>
+    <Artist>Michael Jackson</Artist>
+    <Genre>Funk / Soul, Pop</Genre>
+    <Subgenre>Disco, Soul, Ballad</Subgenre>
+  </row>
+  <row>
+    <Number>69</Number>
+    <Year>1971</Year>
+    <Album>[Led Zeppelin IV]</Album>
+    <Artist>Led Zeppelin</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Hard Rock, Classic Rock, Blues Rock</Subgenre>
+  </row>
+  <row>
+    <Number>70</Number>
+    <Year>1977</Year>
+    <Album>The Stranger</Album>
+    <Artist>Billy Joel</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>71</Number>
+    <Year>1986</Year>
+    <Album>Graceland</Album>
+    <Artist>Paul Simon</Artist>
+    <Genre>Jazz, Rock, Funk / Soul, Pop, Folk, World, &amp; Country</Genre>
+    <Subgenre>Folk Rock, Pop Rock, African, Afrobeat, Zydeco, Funk, Rhythm &amp; Blues</Subgenre>
+  </row>
+  <row>
+    <Number>72</Number>
+    <Year>1972</Year>
+    <Album>Superfly</Album>
+    <Artist>Curtis Mayfield</Artist>
+    <Genre>Funk / Soul, Stage &amp; Screen</Genre>
+    <Subgenre>Soundtrack, Soul</Subgenre>
+  </row>
+  <row>
+    <Number>73</Number>
+    <Year>1975</Year>
+    <Album>Physical Graffiti</Album>
+    <Artist>Led Zeppelin</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Classic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>74</Number>
+    <Year>1970</Year>
+    <Album>After the Gold Rush</Album>
+    <Artist>Neil Young</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Rock &amp; Roll, Country Rock</Subgenre>
+  </row>
+  <row>
+    <Number>75</Number>
+    <Year>1991</Year>
+    <Album>Star Time</Album>
+    <Artist>James Brown</Artist>
+    <Genre>Funk / Soul</Genre>
+    <Subgenre>Soul, Funk, Disco</Subgenre>
+  </row>
+  <row>
+    <Number>76</Number>
+    <Year>1984</Year>
+    <Album>Purple Rain</Album>
+    <Artist>Prince and the Revolution</Artist>
+    <Genre>Electronic, Rock, Funk / Soul, Stage &amp; Screen</Genre>
+    <Subgenre>Pop Rock, Funk, Soundtrack, Synth-pop</Subgenre>
+  </row>
+  <row>
+    <Number>77</Number>
+    <Year>1980</Year>
+    <Album>Back in Black</Album>
+    <Artist>AC/DC</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Hard Rock</Subgenre>
+  </row>
+  <row>
+    <Number>78</Number>
+    <Year>1965</Year>
+    <Album>Otis Blue: Otis Redding Sings Soul</Album>
+    <Artist>Otis Redding</Artist>
+    <Genre>Funk / Soul</Genre>
+    <Subgenre>Soul</Subgenre>
+  </row>
+  <row>
+    <Number>79</Number>
+    <Year>1969</Year>
+    <Album>Led Zeppelin II</Album>
+    <Artist>Led Zeppelin</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Blues Rock, Classic Rock, Hard Rock</Subgenre>
+  </row>
+  <row>
+    <Number>80</Number>
+    <Year>1971</Year>
+    <Album>Imagine</Album>
+    <Artist>John Lennon</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>81</Number>
+    <Year>1977</Year>
+    <Album>The Clash</Album>
+    <Artist>The Clash</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Punk</Subgenre>
+  </row>
+  <row>
+    <Number>82</Number>
+    <Year>1972</Year>
+    <Album>Harvest</Album>
+    <Artist>Neil Young</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Folk Rock, Country Rock, Classic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>83</Number>
+    <Year>1967</Year>
+    <Album>Axis: Bold as Love</Album>
+    <Artist>The Jimi Hendrix Experience</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Psychedelic Rock, Electric Blues</Subgenre>
+  </row>
+  <row>
+    <Number>84</Number>
+    <Year>1967</Year>
+    <Album>I Never Loved a Man the Way I Love You</Album>
+    <Artist>Aretha Franklin</Artist>
+    <Genre>Funk / Soul</Genre>
+    <Subgenre>Soul</Subgenre>
+  </row>
+  <row>
+    <Number>85</Number>
+    <Year>1968</Year>
+    <Album>Lady Soul</Album>
+    <Artist>Aretha Franklin</Artist>
+    <Genre>Funk / Soul</Genre>
+    <Subgenre>Soul</Subgenre>
+  </row>
+  <row>
+    <Number>86</Number>
+    <Year>1984</Year>
+    <Album>Born in the U.S.A.</Album>
+    <Artist>Bruce Springsteen</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>87</Number>
+    <Year>1979</Year>
+    <Album>The Wall</Album>
+    <Artist>Pink Floyd</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Alternative Rock, Prog Rock</Subgenre>
+  </row>
+  <row>
+    <Number>88</Number>
+    <Year>1968</Year>
+    <Album>At Folsom Prison</Album>
+    <Artist>Johnny Cash</Artist>
+    <Genre>Folk, World, &amp; Country</Genre>
+    <Subgenre>Country</Subgenre>
+  </row>
+  <row>
+    <Number>89</Number>
+    <Year>1969</Year>
+    <Album>Dusty in Memphis</Album>
+    <Artist>Dusty Springfield</Artist>
+    <Genre>Rock, Funk / Soul</Genre>
+    <Subgenre>Pop Rock, Soul</Subgenre>
+  </row>
+  <row>
+    <Number>90</Number>
+    <Year>1972</Year>
+    <Album>Talking Book</Album>
+    <Artist>Stevie Wonder</Artist>
+    <Genre>Funk / Soul</Genre>
+    <Subgenre>Soul, Funk</Subgenre>
+  </row>
+  <row>
+    <Number>91</Number>
+    <Year>1973</Year>
+    <Album>Goodbye Yellow Brick Road</Album>
+    <Artist>Elton John</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Pop Rock, Classic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>92</Number>
+    <Year>1978</Year>
+    <Album>20 Golden Greats</Album>
+    <Artist>Buddy Holly</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Rock &amp; Roll</Subgenre>
+  </row>
+  <row>
+    <Number>93</Number>
+    <Year>1987</Year>
+    <Album>Sign &quot;Peace&quot; the Times</Album>
+    <Artist>Prince</Artist>
+    <Genre>Rock, Reggae</Genre>
+    <Subgenre>Ska, Reggae-Pop</Subgenre>
+  </row>
+  <row>
+    <Number>94</Number>
+    <Year>1984</Year>
+    <Album>40 Greatest Hits</Album>
+    <Artist>Hank Williams</Artist>
+    <Genre>Folk, World, &amp; Country</Genre>
+    <Subgenre>Country</Subgenre>
+  </row>
+  <row>
+    <Number>95</Number>
+    <Year>1970</Year>
+    <Album>Bitches Brew</Album>
+    <Artist>Miles Davis</Artist>
+    <Genre>Jazz</Genre>
+    <Subgenre>Fusion</Subgenre>
+  </row>
+  <row>
+    <Number>96</Number>
+    <Year>1969</Year>
+    <Album>Tommy</Album>
+    <Artist>The Who</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Psychedelic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>97</Number>
+    <Year>1963</Year>
+    <Album>The Freewheelin&apos; Bob Dylan</Album>
+    <Artist>Bob Dylan</Artist>
+    <Genre>Folk, World, &amp; Country</Genre>
+    <Subgenre>Folk</Subgenre>
+  </row>
+  <row>
+    <Number>98</Number>
+    <Year>1978</Year>
+    <Album>This Year&apos;s Model</Album>
+    <Artist>Elvis Costello</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>New Wave</Subgenre>
+  </row>
+  <row>
+    <Number>99</Number>
+    <Year>1971</Year>
+    <Album>There&apos;s a Riot Goin&apos; On</Album>
+    <Artist>Sly &amp; The Family Stone</Artist>
+    <Genre>Funk / Soul</Genre>
+    <Subgenre>Rhythm &amp; Blues, Funk</Subgenre>
+  </row>
+  <row>
+    <Number>100</Number>
+    <Year>1968</Year>
+    <Album>Odessey and Oracle</Album>
+    <Artist>The Zombies</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Psychedelic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>101</Number>
+    <Year>1955</Year>
+    <Album>In the Wee Small Hours</Album>
+    <Artist>Frank Sinatra</Artist>
+    <Genre>Jazz, Pop</Genre>
+    <Subgenre>Big Band, Ballad</Subgenre>
+  </row>
+  <row>
+    <Number>102</Number>
+    <Year>1966</Year>
+    <Album>Fresh Cream</Album>
+    <Artist>Cream</Artist>
+    <Genre>Rock, Blues</Genre>
+    <Subgenre>Blues Rock, Electric Blues</Subgenre>
+  </row>
+  <row>
+    <Number>103</Number>
+    <Year>1959</Year>
+    <Album>Giant Steps</Album>
+    <Artist>John Coltrane</Artist>
+    <Genre>Jazz</Genre>
+    <Subgenre>Hard Bop</Subgenre>
+  </row>
+  <row>
+    <Number>104</Number>
+    <Year>1970</Year>
+    <Album>Sweet Baby James</Album>
+    <Artist>James Taylor</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Folk Rock, Acoustic, Soft Rock</Subgenre>
+  </row>
+  <row>
+    <Number>105</Number>
+    <Year>1962</Year>
+    <Album>Modern Sounds in Country and Western Music</Album>
+    <Artist>Ray Charles</Artist>
+    <Genre>Funk / Soul, Folk, World, &amp; Country</Genre>
+    <Subgenre>Country, Rhythm &amp; Blues</Subgenre>
+  </row>
+  <row>
+    <Number>106</Number>
+    <Year>1977</Year>
+    <Album>Rocket to Russia</Album>
+    <Artist>Ramones</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Rock &amp; Roll, Punk</Subgenre>
+  </row>
+  <row>
+    <Number>107</Number>
+    <Year>2003</Year>
+    <Album>Portrait of a Legend 1951-1964</Album>
+    <Artist>Sam Cooke</Artist>
+    <Genre>Latin, Funk / Soul</Genre>
+    <Subgenre>Soul, Rhythm &amp; Blues, Gospel, Cha-Cha</Subgenre>
+  </row>
+  <row>
+    <Number>108</Number>
+    <Year>1971</Year>
+    <Album>Hunky Dory</Album>
+    <Artist>David Bowie</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Classic Rock, Glam</Subgenre>
+  </row>
+  <row>
+    <Number>109</Number>
+    <Year>1966</Year>
+    <Album>Aftermath</Album>
+    <Artist>The Rolling Stones</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Blues Rock, Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>110</Number>
+    <Year>1970</Year>
+    <Album>Loaded</Album>
+    <Artist>The Velvet Underground</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Art Rock, Classic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>111</Number>
+    <Year>1995</Year>
+    <Album>The Bends</Album>
+    <Artist>Radiohead</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Alternative Rock</Subgenre>
+  </row>
+  <row>
+    <Number>112</Number>
+    <Year>1966</Year>
+    <Album>If You Can Believe Your Eyes and Ears</Album>
+    <Artist>The Mamas and the Papas</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Folk Rock, Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>113</Number>
+    <Year>1974</Year>
+    <Album>Court and Spark</Album>
+    <Artist>Joni Mitchell</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Soft Rock, Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>114</Number>
+    <Year>1967</Year>
+    <Album>Disraeli Gears</Album>
+    <Artist>Cream</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Psychedelic Rock, Blues Rock</Subgenre>
+  </row>
+  <row>
+    <Number>115</Number>
+    <Year>1967</Year>
+    <Album>The Who Sell Out</Album>
+    <Artist>The Who</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Psychedelic Rock, Mod</Subgenre>
+  </row>
+  <row>
+    <Number>116</Number>
+    <Year>1965</Year>
+    <Album>Out of Our Heads</Album>
+    <Artist>The Rolling Stones</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Blues Rock, Rock &amp; Roll</Subgenre>
+  </row>
+  <row>
+    <Number>117</Number>
+    <Year>1970</Year>
+    <Album>Layla and Other Assorted Love Songs</Album>
+    <Artist>Derek and the Dominos</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Blues Rock</Subgenre>
+  </row>
+  <row>
+    <Number>118</Number>
+    <Year>2005</Year>
+    <Album>Late Registration</Album>
+    <Artist>Kanye West</Artist>
+    <Genre>Hip Hop</Genre>
+    <Subgenre>None</Subgenre>
+  </row>
+  <row>
+    <Number>119</Number>
+    <Year>1960</Year>
+    <Album>At Last!</Album>
+    <Artist>Etta James</Artist>
+    <Genre>Funk / Soul, Blues</Genre>
+    <Subgenre>Rhythm &amp; Blues, Soul</Subgenre>
+  </row>
+  <row>
+    <Number>120</Number>
+    <Year>1968</Year>
+    <Album>Sweetheart of the Rodeo</Album>
+    <Artist>The Byrds</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Folk Rock, Country Rock</Subgenre>
+  </row>
+  <row>
+    <Number>121</Number>
+    <Year>1969</Year>
+    <Album>Stand!</Album>
+    <Artist>Sly &amp; The Family Stone</Artist>
+    <Genre>Funk / Soul</Genre>
+    <Subgenre>Funk, Psychedelic, Disco</Subgenre>
+  </row>
+  <row>
+    <Number>122</Number>
+    <Year>1972</Year>
+    <Album>The Harder They Come</Album>
+    <Artist>Various Artists</Artist>
+    <Genre>Reggae,�Pop,�Folk, World, &amp; Country,�Stage &amp; Screen</Genre>
+    <Subgenre>Reggae,�Roots Reggae,�Rocksteady,�Contemporary,�Soundtrack</Subgenre>
+  </row>
+  <row>
+    <Number>123</Number>
+    <Year>1986</Year>
+    <Album>Raising Hell</Album>
+    <Artist>Run D.M.C.</Artist>
+    <Genre>Hip Hop</Genre>
+    <Subgenre>None</Subgenre>
+  </row>
+  <row>
+    <Number>124</Number>
+    <Year>1967</Year>
+    <Album>Moby Grape</Album>
+    <Artist>Moby Grape</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Folk Rock, Psychedelic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>125</Number>
+    <Year>1971</Year>
+    <Album>Pearl</Album>
+    <Artist>Janis Joplin</Artist>
+    <Genre>Rock, Blues</Genre>
+    <Subgenre>Blues Rock</Subgenre>
+  </row>
+  <row>
+    <Number>126</Number>
+    <Year>1973</Year>
+    <Album>Catch a Fire</Album>
+    <Artist>The Wailers</Artist>
+    <Genre>Reggae</Genre>
+    <Subgenre>Roots Reggae</Subgenre>
+  </row>
+  <row>
+    <Number>127</Number>
+    <Year>1967</Year>
+    <Album>Younger Than Yesterday</Album>
+    <Artist>The Byrds</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Folk Rock, Psychedelic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>128</Number>
+    <Year>1973</Year>
+    <Album>Raw Power</Album>
+    <Artist>Iggy and The Stooges</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Garage Rock, Hard Rock, Punk</Subgenre>
+  </row>
+  <row>
+    <Number>129</Number>
+    <Year>1980</Year>
+    <Album>Remain in Light</Album>
+    <Artist>Talking Heads</Artist>
+    <Genre>Electronic, Rock</Genre>
+    <Subgenre>New Wave, Art Rock, Funk</Subgenre>
+  </row>
+  <row>
+    <Number>130</Number>
+    <Year>1977</Year>
+    <Album>Marquee Moon</Album>
+    <Artist>Television</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>New Wave, Punk</Subgenre>
+  </row>
+  <row>
+    <Number>131</Number>
+    <Year>1970</Year>
+    <Album>Paranoid</Album>
+    <Artist>Black Sabbath</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Hard Rock, Heavy Metal</Subgenre>
+  </row>
+  <row>
+    <Number>132</Number>
+    <Year>1977</Year>
+    <Album>Saturday Night Fever: The Original Movie Sound Track</Album>
+    <Artist>Various Artists</Artist>
+    <Genre>Electronic,�Stage &amp; Screen</Genre>
+    <Subgenre>Soundtrack,�Disco</Subgenre>
+  </row>
+  <row>
+    <Number>133</Number>
+    <Year>1973</Year>
+    <Album>The Wild, the Innocent &amp; the E Street Shuffle</Album>
+    <Artist>Bruce Springsteen</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>None</Subgenre>
+  </row>
+  <row>
+    <Number>134</Number>
+    <Year>1994</Year>
+    <Album>Ready to Die</Album>
+    <Artist>The Notorious B.I.G.</Artist>
+    <Genre>Hip Hop</Genre>
+    <Subgenre>Thug Rap</Subgenre>
+  </row>
+  <row>
+    <Number>135</Number>
+    <Year>1992</Year>
+    <Album>Slanted and Enchanted</Album>
+    <Artist>Pavement</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Alternative Rock</Subgenre>
+  </row>
+  <row>
+    <Number>136</Number>
+    <Year>1974</Year>
+    <Album>Greatest Hits</Album>
+    <Artist>Elton John</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Classic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>137</Number>
+    <Year>1985</Year>
+    <Album>Tim</Album>
+    <Artist>The Replacements</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Indie Rock</Subgenre>
+  </row>
+  <row>
+    <Number>138</Number>
+    <Year>1992</Year>
+    <Album>The Chronic</Album>
+    <Artist>Dr. Dre</Artist>
+    <Genre>Hip Hop</Genre>
+    <Subgenre>Gangsta</Subgenre>
+  </row>
+  <row>
+    <Number>139</Number>
+    <Year>1974</Year>
+    <Album>Rejuvenation</Album>
+    <Artist>The Meters</Artist>
+    <Genre>Funk / Soul</Genre>
+    <Subgenre>Bayou Funk, Soul</Subgenre>
+  </row>
+  <row>
+    <Number>140</Number>
+    <Year>1978</Year>
+    <Album>Parallel Lines</Album>
+    <Artist>Blondie</Artist>
+    <Genre>Electronic, Rock</Genre>
+    <Subgenre>New Wave, Pop Rock, Punk, Disco</Subgenre>
+  </row>
+  <row>
+    <Number>141</Number>
+    <Year>1965</Year>
+    <Album>Live at the Regal</Album>
+    <Artist>B.B. King</Artist>
+    <Genre>Blues</Genre>
+    <Subgenre>Chicago Blues</Subgenre>
+  </row>
+  <row>
+    <Number>142</Number>
+    <Year>1963</Year>
+    <Album>A Christmas Gift for You From Phil Spector</Album>
+    <Artist>Phil Spector</Artist>
+    <Genre>Rock, Funk / Soul, Pop</Genre>
+    <Subgenre>Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>143</Number>
+    <Year>1968</Year>
+    <Album>Gris-Gris</Album>
+    <Artist>Dr. John, the Night Tripper</Artist>
+    <Genre>Jazz, Rock, Funk / Soul, Blues</Genre>
+    <Subgenre>Soul-Jazz, Louisiana Blues, Fusion, Bayou Funk</Subgenre>
+  </row>
+  <row>
+    <Number>144</Number>
+    <Year>1988</Year>
+    <Album>Straight Outta Compton</Album>
+    <Artist>N.W.A</Artist>
+    <Genre>Hip Hop</Genre>
+    <Subgenre>Gangsta</Subgenre>
+  </row>
+  <row>
+    <Number>145</Number>
+    <Year>1977</Year>
+    <Album>Aja</Album>
+    <Artist>Steely Dan</Artist>
+    <Genre>Jazz, Rock</Genre>
+    <Subgenre>Jazz-Rock, Classic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>146</Number>
+    <Year>1967</Year>
+    <Album>Surrealistic Pillow</Album>
+    <Artist>Jefferson Airplane</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Folk Rock, Psychedelic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>147</Number>
+    <Year>1970</Year>
+    <Album>Deja vu</Album>
+    <Artist>Crosby, Stills, Nash &amp; Young</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Classic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>148</Number>
+    <Year>1973</Year>
+    <Album>Houses of the Holy</Album>
+    <Artist>Led Zeppelin</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Classic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>149</Number>
+    <Year>1969</Year>
+    <Album>Santana</Album>
+    <Artist>Santana</Artist>
+    <Genre>Rock, Latin, Funk / Soul</Genre>
+    <Subgenre>Afro-Cuban, Psychedelic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>150</Number>
+    <Year>1978</Year>
+    <Album>Darkness on the Edge of Town</Album>
+    <Artist>Bruce Springsteen</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>151</Number>
+    <Year>2004</Year>
+    <Album>Funeral</Album>
+    <Artist>Arcade Fire</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Indie Rock</Subgenre>
+  </row>
+  <row>
+    <Number>152</Number>
+    <Year>1979</Year>
+    <Album>The B 52&apos;s / Play Loud</Album>
+    <Artist>The B 52&apos;s</Artist>
+    <Genre>Electronic, Rock, Pop</Genre>
+    <Subgenre>New Wave, Punk, Mod</Subgenre>
+  </row>
+  <row>
+    <Number>153</Number>
+    <Year>1991</Year>
+    <Album>The Low End Theory</Album>
+    <Artist>A Tribe Called Quest</Artist>
+    <Genre>Hip Hop</Genre>
+    <Subgenre>Conscious</Subgenre>
+  </row>
+  <row>
+    <Number>154</Number>
+    <Year>1958</Year>
+    <Album>Moanin&apos; in the Moonlight</Album>
+    <Artist>Howlin&apos; Wolf</Artist>
+    <Genre>Blues</Genre>
+    <Subgenre>Chicago Blues</Subgenre>
+  </row>
+  <row>
+    <Number>155</Number>
+    <Year>1980</Year>
+    <Album>Pretenders</Album>
+    <Artist>Pretenders</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Alternative Rock, New Wave</Subgenre>
+  </row>
+  <row>
+    <Number>156</Number>
+    <Year>1989</Year>
+    <Album>Paul&apos;s Boutique</Album>
+    <Artist>Beastie Boys</Artist>
+    <Genre>Hip Hop, Rock, Funk / Soul</Genre>
+    <Subgenre>Alternative Rock, Pop Rap, Psychedelic</Subgenre>
+  </row>
+  <row>
+    <Number>157</Number>
+    <Year>1980</Year>
+    <Album>Closer</Album>
+    <Artist>Joy Division</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Post-Punk, New Wave</Subgenre>
+  </row>
+  <row>
+    <Number>158</Number>
+    <Year>1975</Year>
+    <Album>Captain Fantastic and the Brown Dirt Cowboy</Album>
+    <Artist>Elton John</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Pop Rock, Classic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>159</Number>
+    <Year>1975</Year>
+    <Album>Alive!</Album>
+    <Artist>KISS</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Hard Rock, Glam</Subgenre>
+  </row>
+  <row>
+    <Number>160</Number>
+    <Year>1971</Year>
+    <Album>Electric Warrior</Album>
+    <Artist>T. Rex</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Glam, Classic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>161</Number>
+    <Year>1968</Year>
+    <Album>The Dock of the Bay</Album>
+    <Artist>Otis Redding</Artist>
+    <Genre>Funk / Soul</Genre>
+    <Subgenre>Rhythm &amp; Blues, Soul</Subgenre>
+  </row>
+  <row>
+    <Number>162</Number>
+    <Year>1997</Year>
+    <Album>OK Computer</Album>
+    <Artist>Radiohead</Artist>
+    <Genre>Electronic, Rock</Genre>
+    <Subgenre>Alternative Rock</Subgenre>
+  </row>
+  <row>
+    <Number>163</Number>
+    <Year>1982</Year>
+    <Album>1999</Album>
+    <Artist>Prince</Artist>
+    <Genre>Funk / Soul, Pop</Genre>
+    <Subgenre>None</Subgenre>
+  </row>
+  <row>
+    <Number>164</Number>
+    <Year>2002</Year>
+    <Album>The Very Best of Linda Ronstadt</Album>
+    <Artist>Linda Ronstadt</Artist>
+    <Genre>Rock, Pop</Genre>
+    <Subgenre>Soft Rock, Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>165</Number>
+    <Year>1973</Year>
+    <Album>Let&apos;s Get It On</Album>
+    <Artist>Marvin Gaye</Artist>
+    <Genre>Funk / Soul</Genre>
+    <Subgenre>Soul</Subgenre>
+  </row>
+  <row>
+    <Number>166</Number>
+    <Year>1982</Year>
+    <Album>Imperial Bedroom</Album>
+    <Artist>Elvis Costello &amp; The Attractions</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Alternative Rock, New Wave</Subgenre>
+  </row>
+  <row>
+    <Number>167</Number>
+    <Year>1986</Year>
+    <Album>Master of Puppets</Album>
+    <Artist>Metallica</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Thrash, Speed Metal</Subgenre>
+  </row>
+  <row>
+    <Number>168</Number>
+    <Year>1977</Year>
+    <Album>My Aim Is True</Album>
+    <Artist>Elvis Costello</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>New Wave, Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>169</Number>
+    <Year>1977</Year>
+    <Album>Exodus</Album>
+    <Artist>Bob Marley &amp; The Wailers</Artist>
+    <Genre>Reggae</Genre>
+    <Subgenre>Reggae, Roots Reggae</Subgenre>
+  </row>
+  <row>
+    <Number>170</Number>
+    <Year>1970</Year>
+    <Album>Live at Leeds</Album>
+    <Artist>The Who</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Classic Rock, Blues Rock, Hard Rock</Subgenre>
+  </row>
+  <row>
+    <Number>171</Number>
+    <Year>1968</Year>
+    <Album>The Notorious Byrd Brothers</Album>
+    <Artist>The Byrds</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Psychedelic Rock, Folk Rock, Country Rock, Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>172</Number>
+    <Year>1971</Year>
+    <Album>Every Picture Tells a Story</Album>
+    <Artist>Rod Stewart</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>173</Number>
+    <Year>1972</Year>
+    <Album>Something/Anything?</Album>
+    <Artist>Todd Rundgren</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Power Pop, Pop Rock, Prog Rock</Subgenre>
+  </row>
+  <row>
+    <Number>174</Number>
+    <Year>1976</Year>
+    <Album>Desire</Album>
+    <Artist>Bob Dylan</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Folk Rock</Subgenre>
+  </row>
+  <row>
+    <Number>175</Number>
+    <Year>1970</Year>
+    <Album>Close to You</Album>
+    <Artist>Carpenters</Artist>
+    <Genre>Rock, Pop</Genre>
+    <Subgenre>Pop Rock, Vocal</Subgenre>
+  </row>
+  <row>
+    <Number>176</Number>
+    <Year>1976</Year>
+    <Album>Rocks</Album>
+    <Artist>Aerosmith</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Hard Rock, Classic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>177</Number>
+    <Year>1978</Year>
+    <Album>One Nation Under a Groove</Album>
+    <Artist>Funkadelic</Artist>
+    <Genre>Funk / Soul</Genre>
+    <Subgenre>P.Funk</Subgenre>
+  </row>
+  <row>
+    <Number>178</Number>
+    <Year>1992</Year>
+    <Album>The Anthology: 1961-1977</Album>
+    <Artist>Curtis Mayfield and The Impressions</Artist>
+    <Genre>Funk / Soul</Genre>
+    <Subgenre>Rhythm &amp; Blues, Soul, Funk</Subgenre>
+  </row>
+  <row>
+    <Number>179</Number>
+    <Year>2001</Year>
+    <Album>The Definitive Collection</Album>
+    <Artist>ABBA</Artist>
+    <Genre>Electronic, Pop</Genre>
+    <Subgenre>Europop, Synth-pop, Disco</Subgenre>
+  </row>
+  <row>
+    <Number>180</Number>
+    <Year>1965</Year>
+    <Album>The Rolling Stones, Now!</Album>
+    <Artist>The Rolling Stones</Artist>
+    <Genre>Rock, Blues, Pop</Genre>
+    <Subgenre>Pop Rock, Rhythm &amp; Blues, Rock &amp; Roll</Subgenre>
+  </row>
+  <row>
+    <Number>181</Number>
+    <Year>1974</Year>
+    <Album>Natty Dread</Album>
+    <Artist>Bob Marley &amp; The Wailers</Artist>
+    <Genre>Reggae</Genre>
+    <Subgenre>Reggae, Roots Reggae</Subgenre>
+  </row>
+  <row>
+    <Number>182</Number>
+    <Year>1975</Year>
+    <Album>Fleetwood Mac</Album>
+    <Artist>Fleetwood Mac</Artist>
+    <Genre>Rock, Pop</Genre>
+    <Subgenre>Folk Rock, Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>183</Number>
+    <Year>1975</Year>
+    <Album>Red Headed Stranger</Album>
+    <Artist>Willie Nelson</Artist>
+    <Genre>Folk, World, &amp; Country</Genre>
+    <Subgenre>Country</Subgenre>
+  </row>
+  <row>
+    <Number>184</Number>
+    <Year>1990</Year>
+    <Album>The Immaculate Collection</Album>
+    <Artist>Madonna</Artist>
+    <Genre>Electronic, Pop</Genre>
+    <Subgenre>Synth-pop</Subgenre>
+  </row>
+  <row>
+    <Number>185</Number>
+    <Year>1969</Year>
+    <Album>The Stooges</Album>
+    <Artist>The Stooges</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Garage Rock, Punk</Subgenre>
+  </row>
+  <row>
+    <Number>186</Number>
+    <Year>1973</Year>
+    <Album>Fresh</Album>
+    <Artist>Sly &amp; The Family Stone</Artist>
+    <Genre>Funk / Soul</Genre>
+    <Subgenre>Rhythm &amp; Blues, Funk</Subgenre>
+  </row>
+  <row>
+    <Number>187</Number>
+    <Year>1986</Year>
+    <Album>So</Album>
+    <Artist>Peter Gabriel</Artist>
+    <Genre>Electronic, Rock, Funk / Soul, Pop</Genre>
+    <Subgenre>Art Rock, Pop Rock, Synth-pop, Funk</Subgenre>
+  </row>
+  <row>
+    <Number>188</Number>
+    <Year>1967</Year>
+    <Album>Buffalo Springfield Again</Album>
+    <Artist>Buffalo Springfield</Artist>
+    <Genre>Rock, Pop</Genre>
+    <Subgenre>Country Rock</Subgenre>
+  </row>
+  <row>
+    <Number>189</Number>
+    <Year>1969</Year>
+    <Album>Happy Trails</Album>
+    <Artist>Quicksilver Messenger Service</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Acid Rock, Psychedelic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>190</Number>
+    <Year>1969</Year>
+    <Album>From Elvis in Memphis</Album>
+    <Artist>Elvis Presley</Artist>
+    <Genre>Rock, Funk / Soul, Folk, World, &amp; Country</Genre>
+    <Subgenre>Country, Soul</Subgenre>
+  </row>
+  <row>
+    <Number>191</Number>
+    <Year>1970</Year>
+    <Album>Fun House</Album>
+    <Artist>The Stooges</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Garage Rock, Punk</Subgenre>
+  </row>
+  <row>
+    <Number>192</Number>
+    <Year>1969</Year>
+    <Album>The Gilded Palace of Sin</Album>
+    <Artist>The Flying Burrito Brothers</Artist>
+    <Genre>Rock, Folk, World, &amp; Country</Genre>
+    <Subgenre>Country Rock</Subgenre>
+  </row>
+  <row>
+    <Number>193</Number>
+    <Year>1994</Year>
+    <Album>Dookie</Album>
+    <Artist>Green Day</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Alternative Rock, Pop Punk, Punk</Subgenre>
+  </row>
+  <row>
+    <Number>194</Number>
+    <Year>1972</Year>
+    <Album>Transformer</Album>
+    <Artist>Lou Reed</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Glam</Subgenre>
+  </row>
+  <row>
+    <Number>195</Number>
+    <Year>1966</Year>
+    <Album>Blues Breakers With Eric Clapton (&quot;The Beano Album&quot;)</Album>
+    <Artist>John Mayall &amp; The Bluesbreakers</Artist>
+    <Genre>Rock,�Blues</Genre>
+    <Subgenre>Blues Rock,�Electric Blues,�Harmonica Blues</Subgenre>
+  </row>
+  <row>
+    <Number>196</Number>
+    <Year>1998</Year>
+    <Album>Nuggets: Original Artyfacts From the First Psychedelic Era, 1965-1968</Album>
+    <Artist>Various Artists</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Garage Rock,�Psychedelic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>197</Number>
+    <Year>1983</Year>
+    <Album>Murmur</Album>
+    <Artist>R.E.M.</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Alternative Rock</Subgenre>
+  </row>
+  <row>
+    <Number>198</Number>
+    <Year>1967</Year>
+    <Album>The Best of Little Walter</Album>
+    <Artist>Little Walter</Artist>
+    <Genre>Blues</Genre>
+    <Subgenre>Chicago Blues</Subgenre>
+  </row>
+  <row>
+    <Number>199</Number>
+    <Year>2001</Year>
+    <Album>Is This It</Album>
+    <Artist>The Strokes</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Indie Rock</Subgenre>
+  </row>
+  <row>
+    <Number>200</Number>
+    <Year>1979</Year>
+    <Album>Highway to Hell</Album>
+    <Artist>AC/DC</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Hard Rock</Subgenre>
+  </row>
+  <row>
+    <Number>201</Number>
+    <Year>1994</Year>
+    <Album>The Downward Spiral</Album>
+    <Artist>Nine Inch Nails</Artist>
+    <Genre>Electronic, Rock</Genre>
+    <Subgenre>Industrial</Subgenre>
+  </row>
+  <row>
+    <Number>202</Number>
+    <Year>1966</Year>
+    <Album>Parsley, Sage, Rosemary and Thyme</Album>
+    <Artist>Simon &amp; Garfunkel</Artist>
+    <Genre>Rock, Pop, Folk, World, &amp; Country</Genre>
+    <Subgenre>Folk Rock, Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>203</Number>
+    <Year>1987</Year>
+    <Album>Bad</Album>
+    <Artist>Michael Jackson</Artist>
+    <Genre>Funk / Soul, Pop</Genre>
+    <Subgenre>Pop Rock, Ballad, Funk, Soul</Subgenre>
+  </row>
+  <row>
+    <Number>204</Number>
+    <Year>2006</Year>
+    <Album>Modern Times</Album>
+    <Artist>Bob Dylan</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Blues Rock, Folk Rock</Subgenre>
+  </row>
+  <row>
+    <Number>205</Number>
+    <Year>1968</Year>
+    <Album>Wheels of Fire</Album>
+    <Artist>Cream</Artist>
+    <Genre>Rock, Blues</Genre>
+    <Subgenre>Blues Rock, Psychedelic Rock, Classic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>206</Number>
+    <Year>1980</Year>
+    <Album>Dirty Mind</Album>
+    <Artist>Prince</Artist>
+    <Genre>Funk / Soul</Genre>
+    <Subgenre>None</Subgenre>
+  </row>
+  <row>
+    <Number>207</Number>
+    <Year>1970</Year>
+    <Album>Abraxas</Album>
+    <Artist>Santana</Artist>
+    <Genre>Rock, Latin</Genre>
+    <Subgenre>Fusion, Hard Rock, Psychedelic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>208</Number>
+    <Year>1970</Year>
+    <Album>Tea for the Tillerman</Album>
+    <Artist>Cat Stevens</Artist>
+    <Genre>Rock, Stage &amp; Screen</Genre>
+    <Subgenre>Folk Rock, Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>209</Number>
+    <Year>1991</Year>
+    <Album>Ten</Album>
+    <Artist>Pearl Jam</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Grunge</Subgenre>
+  </row>
+  <row>
+    <Number>210</Number>
+    <Year>1969</Year>
+    <Album>Everybody Knows This Is Nowhere</Album>
+    <Artist>Neil Young &amp; Crazy Horse</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Folk Rock, Country Rock, Classic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>211</Number>
+    <Year>1975</Year>
+    <Album>Wish You Were Here</Album>
+    <Artist>Pink Floyd</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Classic Rock, Prog Rock</Subgenre>
+  </row>
+  <row>
+    <Number>212</Number>
+    <Year>1994</Year>
+    <Album>Crooked Rain Crooked Rain</Album>
+    <Artist>Pavement</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Alternative Rock, Indie Rock</Subgenre>
+  </row>
+  <row>
+    <Number>213</Number>
+    <Year>1981</Year>
+    <Album>Tattoo You</Album>
+    <Artist>The Rolling Stones</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Classic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>214</Number>
+    <Year>1991</Year>
+    <Album>Proud Mary: The Best of Ike and Tina Turner</Album>
+    <Artist>Ike &amp; Tina Turner</Artist>
+    <Genre>Funk / Soul</Genre>
+    <Subgenre>Rhythm &amp; Blues, Bayou Funk, Soul</Subgenre>
+  </row>
+  <row>
+    <Number>215</Number>
+    <Year>1973</Year>
+    <Album>New York Dolls</Album>
+    <Artist>New York Dolls</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Glam</Subgenre>
+  </row>
+  <row>
+    <Number>216</Number>
+    <Year>1986</Year>
+    <Album>Bo Diddley / Go Bo Diddley</Album>
+    <Artist>Bo Diddley</Artist>
+    <Genre>Rock, Blues</Genre>
+    <Subgenre>Rhythm &amp; Blues, Rock &amp; Roll</Subgenre>
+  </row>
+  <row>
+    <Number>217</Number>
+    <Year>1961</Year>
+    <Album>Two Steps From the Blues</Album>
+    <Artist>Bobby &quot;Blue&quot; Bland</Artist>
+    <Genre>Funk / Soul, Blues</Genre>
+    <Subgenre>Rhythm &amp; Blues, Soul</Subgenre>
+  </row>
+  <row>
+    <Number>218</Number>
+    <Year>1986</Year>
+    <Album>The Queen Is Dead</Album>
+    <Artist>The Smiths</Artist>
+    <Genre>Rock, Pop</Genre>
+    <Subgenre>Indie Rock</Subgenre>
+  </row>
+  <row>
+    <Number>219</Number>
+    <Year>1986</Year>
+    <Album>Licensed to Ill</Album>
+    <Artist>Beastie Boys</Artist>
+    <Genre>Hip Hop</Genre>
+    <Subgenre>None</Subgenre>
+  </row>
+  <row>
+    <Number>220</Number>
+    <Year>1970</Year>
+    <Album>Look-Ka Py Py</Album>
+    <Artist>The Meters</Artist>
+    <Genre>Funk / Soul</Genre>
+    <Subgenre>Bayou Funk, Soul, Funk</Subgenre>
+  </row>
+  <row>
+    <Number>221</Number>
+    <Year>1991</Year>
+    <Album>Loveless</Album>
+    <Artist>My Bloody Valentine</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Alternative Rock, Shoegaze</Subgenre>
+  </row>
+  <row>
+    <Number>222</Number>
+    <Year>1972</Year>
+    <Album>New Orleans Piano</Album>
+    <Artist>Professor Longhair</Artist>
+    <Genre>Funk / Soul, Blues</Genre>
+    <Subgenre>Piano Blues</Subgenre>
+  </row>
+  <row>
+    <Number>223</Number>
+    <Year>1983</Year>
+    <Album>War</Album>
+    <Artist>U2</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>224</Number>
+    <Year>1999</Year>
+    <Album>The Neil Diamond Collection</Album>
+    <Artist>Neil Diamond</Artist>
+    <Genre>Rock, Pop</Genre>
+    <Subgenre>Soft Rock, Ballad</Subgenre>
+  </row>
+  <row>
+    <Number>225</Number>
+    <Year>2004</Year>
+    <Album>American Idiot</Album>
+    <Artist>Green Day</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Pop Rock, Punk</Subgenre>
+  </row>
+  <row>
+    <Number>226</Number>
+    <Year>1982</Year>
+    <Album>Nebraska</Album>
+    <Artist>Bruce Springsteen</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Acoustic</Subgenre>
+  </row>
+  <row>
+    <Number>227</Number>
+    <Year>1989</Year>
+    <Album>Doolittle</Album>
+    <Artist>Pixies</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Indie Rock</Subgenre>
+  </row>
+  <row>
+    <Number>228</Number>
+    <Year>1987</Year>
+    <Album>Paid in Full</Album>
+    <Artist>Eric B. &amp; Rakim</Artist>
+    <Genre>Hip Hop</Genre>
+    <Subgenre>None</Subgenre>
+  </row>
+  <row>
+    <Number>229</Number>
+    <Year>1975</Year>
+    <Album>Toys in the Attic</Album>
+    <Artist>Aerosmith</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Hard Rock, Blues Rock</Subgenre>
+  </row>
+  <row>
+    <Number>230</Number>
+    <Year>1989</Year>
+    <Album>Nick of Time</Album>
+    <Artist>Bonnie Raitt</Artist>
+    <Genre>Rock, Pop</Genre>
+    <Subgenre>Blues Rock, Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>231</Number>
+    <Year>1975</Year>
+    <Album>A Night at the Opera</Album>
+    <Artist>Queen</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Hard Rock, Pop Rock, Prog Rock</Subgenre>
+  </row>
+  <row>
+    <Number>232</Number>
+    <Year>1972</Year>
+    <Album>The Kink Kronikles</Album>
+    <Artist>The Kinks</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Rock &amp; Roll, Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>233</Number>
+    <Year>1965</Year>
+    <Album>Mr. Tambourine Man</Album>
+    <Artist>The Byrds</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Folk Rock, Garage Rock, Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>234</Number>
+    <Year>1968</Year>
+    <Album>Bookends</Album>
+    <Artist>Simon &amp; Garfunkel</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Folk Rock, Classic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>235</Number>
+    <Year>2000</Year>
+    <Album>The Ultimate Collection</Album>
+    <Artist>Patsy Cline</Artist>
+    <Genre>Folk, World, &amp; Country</Genre>
+    <Subgenre>None</Subgenre>
+  </row>
+  <row>
+    <Number>236</Number>
+    <Year>1992</Year>
+    <Album>Mr. Excitement!</Album>
+    <Artist>Jackie Wilson</Artist>
+    <Genre>Funk / Soul</Genre>
+    <Subgenre>None</Subgenre>
+  </row>
+  <row>
+    <Number>237</Number>
+    <Year>1965</Year>
+    <Album>My Generation</Album>
+    <Artist>The Who</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Mod</Subgenre>
+  </row>
+  <row>
+    <Number>238</Number>
+    <Year>1962</Year>
+    <Album>Howlin&apos; Wolf</Album>
+    <Artist>Howlin&apos; Wolf</Artist>
+    <Genre>Blues</Genre>
+    <Subgenre>None</Subgenre>
+  </row>
+  <row>
+    <Number>239</Number>
+    <Year>1989</Year>
+    <Album>Like a Prayer</Album>
+    <Artist>Madonna</Artist>
+    <Genre>Electronic, Pop</Genre>
+    <Subgenre>Synth-pop</Subgenre>
+  </row>
+  <row>
+    <Number>240</Number>
+    <Year>1972</Year>
+    <Album>Can&apos;t Buy a Thrill</Album>
+    <Artist>Steely Dan</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Classic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>241</Number>
+    <Year>1984</Year>
+    <Album>Let It Be</Album>
+    <Artist>The Replacements</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Alternative Rock, Power Pop, Punk, Indie Rock</Subgenre>
+  </row>
+  <row>
+    <Number>242</Number>
+    <Year>1984</Year>
+    <Album>Run D.M.C.</Album>
+    <Artist>Run D.M.C.</Artist>
+    <Genre>Hip Hop</Genre>
+    <Subgenre>None</Subgenre>
+  </row>
+  <row>
+    <Number>243</Number>
+    <Year>1970</Year>
+    <Album>Black Sabbath</Album>
+    <Artist>Black Sabbath</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Blues Rock, Heavy Metal</Subgenre>
+  </row>
+  <row>
+    <Number>244</Number>
+    <Year>2000</Year>
+    <Album>The Marshall Mathers LP</Album>
+    <Artist>Eminem</Artist>
+    <Genre>Hip Hop</Genre>
+    <Subgenre>Pop Rap, Hardcore Hip-Hop, Horrorcore</Subgenre>
+  </row>
+  <row>
+    <Number>245</Number>
+    <Year>1993</Year>
+    <Album>All Killer No Filler! The Jerry Lee Lewis Anthology</Album>
+    <Artist>Jerry Lee Lewis</Artist>
+    <Genre>Rock, Blues, Folk, World, &amp; Country</Genre>
+    <Subgenre>Country Blues, Rock &amp; Roll, Rhythm &amp; Blues</Subgenre>
+  </row>
+  <row>
+    <Number>246</Number>
+    <Year>1966</Year>
+    <Album>Freak Out!</Album>
+    <Artist>The Mothers of Invention</Artist>
+    <Genre>Electronic, Rock</Genre>
+    <Subgenre>Musique Concr?te, Avantgarde, Symphonic Rock, Rhythm &amp; Blues, Psychedelic Rock, Experimental, Parody</Subgenre>
+  </row>
+  <row>
+    <Number>247</Number>
+    <Year>1969</Year>
+    <Album>Live/Dead</Album>
+    <Artist>The Grateful Dead</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Folk Rock, Country Rock, Psychedelic Rock, Experimental</Subgenre>
+  </row>
+  <row>
+    <Number>248</Number>
+    <Year>1959</Year>
+    <Album>The Shape of Jazz to Come</Album>
+    <Artist>Ornette Coleman</Artist>
+    <Genre>Jazz</Genre>
+    <Subgenre>Free Jazz</Subgenre>
+  </row>
+  <row>
+    <Number>249</Number>
+    <Year>1992</Year>
+    <Album>Automatic for the People</Album>
+    <Artist>R.E.M.</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Alternative Rock</Subgenre>
+  </row>
+  <row>
+    <Number>250</Number>
+    <Year>1996</Year>
+    <Album>Reasonable Doubt</Album>
+    <Artist>Jay Z</Artist>
+    <Genre>Hip Hop</Genre>
+    <Subgenre>None</Subgenre>
+  </row>
+  <row>
+    <Number>251</Number>
+    <Year>1977</Year>
+    <Album>Low</Album>
+    <Artist>David Bowie</Artist>
+    <Genre>Electronic, Rock</Genre>
+    <Subgenre>Art Rock, Ambient, Experimental</Subgenre>
+  </row>
+  <row>
+    <Number>252</Number>
+    <Year>2001</Year>
+    <Album>The Blueprint</Album>
+    <Artist>Jay Z</Artist>
+    <Genre>Hip Hop</Genre>
+    <Subgenre>None</Subgenre>
+  </row>
+  <row>
+    <Number>253</Number>
+    <Year>1980</Year>
+    <Album>The River</Album>
+    <Artist>Bruce Springsteen</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Folk Rock, Pop Rock, Classic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>254</Number>
+    <Year>1966</Year>
+    <Album>Complete &amp; Unbelievable: The Otis Redding Dictionary of Soul</Album>
+    <Artist>Otis Redding</Artist>
+    <Genre>Funk / Soul</Genre>
+    <Subgenre>Soul</Subgenre>
+  </row>
+  <row>
+    <Number>255</Number>
+    <Year>1991</Year>
+    <Album>Metallica (&quot;The Black Album&quot;)</Album>
+    <Artist>Metallica</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Heavy Metal</Subgenre>
+  </row>
+  <row>
+    <Number>256</Number>
+    <Year>1977</Year>
+    <Album>Trans Europa Express</Album>
+    <Artist>Kraftwerk</Artist>
+    <Genre>Electronic</Genre>
+    <Subgenre>Electro</Subgenre>
+  </row>
+  <row>
+    <Number>257</Number>
+    <Year>1985</Year>
+    <Album>Whitney Houston</Album>
+    <Artist>Whitney Houston</Artist>
+    <Genre>Funk / Soul, Pop</Genre>
+    <Subgenre>Synth-pop, Rhythm &amp; Blues</Subgenre>
+  </row>
+  <row>
+    <Number>258</Number>
+    <Year>1968</Year>
+    <Album>The Kinks Are The Village Green Preservation Society</Album>
+    <Artist>The Kinks</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Psychedelic Rock, Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>259</Number>
+    <Year>1997</Year>
+    <Album>The Velvet Rope</Album>
+    <Artist>Janet</Artist>
+    <Genre>Electronic, Funk / Soul, Pop</Genre>
+    <Subgenre>RnB/Swing, Downtempo</Subgenre>
+  </row>
+  <row>
+    <Number>260</Number>
+    <Year>1978</Year>
+    <Album>Stardust</Album>
+    <Artist>Willie Nelson</Artist>
+    <Genre>Pop, Folk, World, &amp; Country</Genre>
+    <Subgenre>Vocal</Subgenre>
+  </row>
+  <row>
+    <Number>261</Number>
+    <Year>1970</Year>
+    <Album>American Beauty</Album>
+    <Artist>Grateful Dead</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Folk Rock</Subgenre>
+  </row>
+  <row>
+    <Number>262</Number>
+    <Year>1969</Year>
+    <Album>Crosby, Stills &amp; Nash</Album>
+    <Artist>Crosby, Stills &amp; Nash</Artist>
+    <Genre>Rock, Folk, World, &amp; Country</Genre>
+    <Subgenre>Folk Rock, Classic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>263</Number>
+    <Year>1988</Year>
+    <Album>Tracy Chapman</Album>
+    <Artist>Tracy Chapman</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>None</Subgenre>
+  </row>
+  <row>
+    <Number>264</Number>
+    <Year>1970</Year>
+    <Album>Workingman&apos;s Dead</Album>
+    <Artist>Grateful Dead</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Folk Rock, Country Rock, Classic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>265</Number>
+    <Year>1959</Year>
+    <Album>The Genius of Ray Charles</Album>
+    <Artist>Ray Charles</Artist>
+    <Genre>Jazz, Pop</Genre>
+    <Subgenre>Soul-Jazz, Big Band</Subgenre>
+  </row>
+  <row>
+    <Number>266</Number>
+    <Year>1968</Year>
+    <Album>Child Is Father to the Man</Album>
+    <Artist>Blood, Sweat &amp; Tears</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Blues Rock, Jazz-Rock, Classic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>267</Number>
+    <Year>1973</Year>
+    <Album>Quadrophenia</Album>
+    <Artist>The Who</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Hard Rock, Classic Rock, Mod</Subgenre>
+  </row>
+  <row>
+    <Number>268</Number>
+    <Year>1972</Year>
+    <Album>Paul Simon</Album>
+    <Artist>Paul Simon</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Folk Rock, Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>269</Number>
+    <Year>1985</Year>
+    <Album>Psychocandy</Album>
+    <Artist>The Jesus and Mary Chain</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Noise</Subgenre>
+  </row>
+  <row>
+    <Number>270</Number>
+    <Year>1978</Year>
+    <Album>Some Girls</Album>
+    <Artist>The Rolling Stones</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Blues Rock, Rock &amp; Roll, Classic Rock, Disco</Subgenre>
+  </row>
+  <row>
+    <Number>271</Number>
+    <Year>1965</Year>
+    <Album>The Beach Boys Today!</Album>
+    <Artist>The Beach Boys</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Pop Rock, Psychedelic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>272</Number>
+    <Year>1997</Year>
+    <Album>Dig Me Out</Album>
+    <Artist>Sleater Kinney</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Indie Rock</Subgenre>
+  </row>
+  <row>
+    <Number>273</Number>
+    <Year>1966</Year>
+    <Album>Going to a Go-Go</Album>
+    <Artist>Smokey Robinson &amp; The Miracles</Artist>
+    <Genre>Funk / Soul</Genre>
+    <Subgenre>Soul</Subgenre>
+  </row>
+  <row>
+    <Number>274</Number>
+    <Year>1974</Year>
+    <Album>Nightbirds</Album>
+    <Artist>LaBelle</Artist>
+    <Genre>Funk / Soul</Genre>
+    <Subgenre>Funk, Disco</Subgenre>
+  </row>
+  <row>
+    <Number>275</Number>
+    <Year>1999</Year>
+    <Album>The Slim Shady LP</Album>
+    <Artist>Eminem</Artist>
+    <Genre>Hip Hop</Genre>
+    <Subgenre>None</Subgenre>
+  </row>
+  <row>
+    <Number>276</Number>
+    <Year>1975</Year>
+    <Album>Mothership Connection</Album>
+    <Artist>Parliament</Artist>
+    <Genre>Funk / Soul</Genre>
+    <Subgenre>P.Funk, Funk</Subgenre>
+  </row>
+  <row>
+    <Number>277</Number>
+    <Year>1989</Year>
+    <Album>Rhythm Nation 1814</Album>
+    <Artist>Janet Jackson</Artist>
+    <Genre>Electronic, Hip Hop, Pop</Genre>
+    <Subgenre>RnB/Swing, Downtempo, Synth-pop</Subgenre>
+  </row>
+  <row>
+    <Number>278</Number>
+    <Year>1997</Year>
+    <Album>Anthology of American Folk Music</Album>
+    <Artist>Various</Artist>
+    <Genre>Blues, Folk, World, &amp; Country</Genre>
+    <Subgenre>Cajun, Country, Field Recording, Gospel, Delta Blues, Folk</Subgenre>
+  </row>
+  <row>
+    <Number>279</Number>
+    <Year>1973</Year>
+    <Album>Aladdin Sane</Album>
+    <Artist>David Bowie</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Glam</Subgenre>
+  </row>
+  <row>
+    <Number>280</Number>
+    <Year>2000</Year>
+    <Album>All That You Can&apos;t Leave Behind</Album>
+    <Artist>U2</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>281</Number>
+    <Year>1994</Year>
+    <Album>My Life</Album>
+    <Artist>Mary J. Blige</Artist>
+    <Genre>Hip Hop</Genre>
+    <Subgenre>RnB/Swing</Subgenre>
+  </row>
+  <row>
+    <Number>282</Number>
+    <Year>1964</Year>
+    <Album>Folk Singer</Album>
+    <Artist>Muddy Waters</Artist>
+    <Genre>Blues</Genre>
+    <Subgenre>Delta Blues</Subgenre>
+  </row>
+  <row>
+    <Number>283</Number>
+    <Year>1974</Year>
+    <Album>Can&apos;t Get Enough</Album>
+    <Artist>Barry White</Artist>
+    <Genre>Funk / Soul</Genre>
+    <Subgenre>Soul, Disco</Subgenre>
+  </row>
+  <row>
+    <Number>284</Number>
+    <Year>1978</Year>
+    <Album>The Cars</Album>
+    <Artist>The Cars</Artist>
+    <Genre>Electronic, Rock</Genre>
+    <Subgenre>New Wave, Pop Rock, Synth-pop</Subgenre>
+  </row>
+  <row>
+    <Number>285</Number>
+    <Year>1972</Year>
+    <Album>Music of My Mind</Album>
+    <Artist>Stevie Wonder</Artist>
+    <Genre>Funk / Soul</Genre>
+    <Subgenre>Soul-Jazz, Soul</Subgenre>
+  </row>
+  <row>
+    <Number>286</Number>
+    <Year>1972</Year>
+    <Album>I&apos;m Still in Love With You</Album>
+    <Artist>Al Green</Artist>
+    <Genre>Funk / Soul</Genre>
+    <Subgenre>Rhythm &amp; Blues, Soul</Subgenre>
+  </row>
+  <row>
+    <Number>287</Number>
+    <Year>1980</Year>
+    <Album>Los Angeles</Album>
+    <Artist>X</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Punk, Rock &amp; Roll</Subgenre>
+  </row>
+  <row>
+    <Number>288</Number>
+    <Year>1968</Year>
+    <Album>Anthem of the Sun</Album>
+    <Artist>Grateful Dead</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Psychedelic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>289</Number>
+    <Year>1967</Year>
+    <Album>Something Else by The Kinks</Album>
+    <Artist>The Kinks</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Pop Rock, Psychedelic Rock, Mod</Subgenre>
+  </row>
+  <row>
+    <Number>290</Number>
+    <Year>1973</Year>
+    <Album>Call Me</Album>
+    <Artist>Al Green</Artist>
+    <Genre>Funk / Soul</Genre>
+    <Subgenre>Rhythm &amp; Blues, Soul</Subgenre>
+  </row>
+  <row>
+    <Number>291</Number>
+    <Year>1977</Year>
+    <Album>Talking Heads: 77</Album>
+    <Artist>Talking Heads</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>New Wave</Subgenre>
+  </row>
+  <row>
+    <Number>292</Number>
+    <Year>1975</Year>
+    <Album>The Basement Tapes</Album>
+    <Artist>Bob Dylan and the Band</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Folk Rock, Country Rock, Classic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>293</Number>
+    <Year>1968</Year>
+    <Album>White Light/White Heat</Album>
+    <Artist>The Velvet Underground</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Avantgarde, Experimental</Subgenre>
+  </row>
+  <row>
+    <Number>294</Number>
+    <Year>1969</Year>
+    <Album>Kick Out the Jams</Album>
+    <Artist>MC5</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Garage Rock, Hard Rock, Punk, Blues Rock</Subgenre>
+  </row>
+  <row>
+    <Number>295</Number>
+    <Year>1970</Year>
+    <Album>Songs of Love and Hate</Album>
+    <Artist>Leonard Cohen</Artist>
+    <Genre>Folk, World, &amp; Country</Genre>
+    <Subgenre>Folk Rock, Folk, Ballad</Subgenre>
+  </row>
+  <row>
+    <Number>296</Number>
+    <Year>1985</Year>
+    <Album>Meat Is Murder</Album>
+    <Artist>The Smiths</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Alternative Rock, Indie Rock</Subgenre>
+  </row>
+  <row>
+    <Number>297</Number>
+    <Year>1968</Year>
+    <Album>We&apos;re Only in It for the Money</Album>
+    <Artist>The Mothers of Invention</Artist>
+    <Genre>Electronic, Rock</Genre>
+    <Subgenre>Modern Classical, Avantgarde, Psychedelic Rock, Experimental, Parody</Subgenre>
+  </row>
+  <row>
+    <Number>298</Number>
+    <Year>2003</Year>
+    <Album>The College Dropout</Album>
+    <Artist>Kanye West</Artist>
+    <Genre>Hip Hop</Genre>
+    <Subgenre>Pop Rap, Conscious, Contemporary R&amp;B</Subgenre>
+  </row>
+  <row>
+    <Number>299</Number>
+    <Year>1994</Year>
+    <Album>Weezer (Blue Album)</Album>
+    <Artist>Weezer</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Alternative Rock, Emo</Subgenre>
+  </row>
+  <row>
+    <Number>300</Number>
+    <Year>1971</Year>
+    <Album>Master of Reality</Album>
+    <Artist>Black Sabbath</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Hard Rock, Heavy Metal</Subgenre>
+  </row>
+  <row>
+    <Number>301</Number>
+    <Year>1971</Year>
+    <Album>Coat of Many Colors</Album>
+    <Artist>Dolly Parton</Artist>
+    <Genre>Folk, World, &amp; Country</Genre>
+    <Subgenre>Country</Subgenre>
+  </row>
+  <row>
+    <Number>302</Number>
+    <Year>1990</Year>
+    <Album>Fear of a Black Planet</Album>
+    <Artist>Public Enemy</Artist>
+    <Genre>Hip Hop</Genre>
+    <Subgenre>Conscious</Subgenre>
+  </row>
+  <row>
+    <Number>303</Number>
+    <Year>1967</Year>
+    <Album>John Wesley Harding</Album>
+    <Artist>Bob Dylan</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Folk Rock, Country Rock</Subgenre>
+  </row>
+  <row>
+    <Number>304</Number>
+    <Year>1994</Year>
+    <Album>Grace</Album>
+    <Artist>Jeff Buckley</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Alternative Rock, Folk Rock</Subgenre>
+  </row>
+  <row>
+    <Number>305</Number>
+    <Year>1998</Year>
+    <Album>Car Wheels on a Gravel Road</Album>
+    <Artist>Lucinda Williams</Artist>
+    <Genre>Folk, World, &amp; Country</Genre>
+    <Subgenre>Country, Folk</Subgenre>
+  </row>
+  <row>
+    <Number>306</Number>
+    <Year>1996</Year>
+    <Album>Odelay</Album>
+    <Artist>Beck</Artist>
+    <Genre>Electronic, Hip Hop, Funk / Soul, Pop</Genre>
+    <Subgenre>Electro, Downtempo, Hip Hop, Disco, Afrobeat, Abstract</Subgenre>
+  </row>
+  <row>
+    <Number>307</Number>
+    <Year>1964</Year>
+    <Album>A Hard Day&apos;s Night</Album>
+    <Artist>The Beatles</Artist>
+    <Genre>Rock, Stage &amp; Screen</Genre>
+    <Subgenre>Soundtrack, Beat, Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>308</Number>
+    <Year>1956</Year>
+    <Album>Songs for Swingin&apos; Lovers!</Album>
+    <Artist>Frank Sinatra</Artist>
+    <Genre>Jazz, Pop</Genre>
+    <Subgenre>Vocal, Easy Listening</Subgenre>
+  </row>
+  <row>
+    <Number>309</Number>
+    <Year>1969</Year>
+    <Album>Willy and the Poor Boys</Album>
+    <Artist>Creedence Clearwater Revival</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Blues Rock, Rock &amp; Roll, Classic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>310</Number>
+    <Year>1991</Year>
+    <Album>Blood Sugar Sex Magik</Album>
+    <Artist>Red Hot Chili Peppers</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Alternative Rock, Funk Metal</Subgenre>
+  </row>
+  <row>
+    <Number>311</Number>
+    <Year>1994</Year>
+    <Album>The Sun Records Collection</Album>
+    <Artist>Various</Artist>
+    <Genre>Rock, Funk / Soul, Blues, Pop, Folk, World, &amp; Country</Genre>
+    <Subgenre>Country Blues, Rock &amp; Roll, Rockabilly</Subgenre>
+  </row>
+  <row>
+    <Number>312</Number>
+    <Year>1988</Year>
+    <Album>Nothing&apos;s Shocking</Album>
+    <Artist>Jane&apos;s Addiction</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Alternative Rock</Subgenre>
+  </row>
+  <row>
+    <Number>313</Number>
+    <Year>1994</Year>
+    <Album>MTV Unplugged in New York</Album>
+    <Artist>Nirvana</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Folk Rock, Acoustic, Grunge</Subgenre>
+  </row>
+  <row>
+    <Number>314</Number>
+    <Year>1998</Year>
+    <Album>The Miseducation of Lauryn Hill</Album>
+    <Artist>Lauryn Hill</Artist>
+    <Genre>Hip Hop</Genre>
+    <Subgenre>RnB/Swing, Conscious</Subgenre>
+  </row>
+  <row>
+    <Number>315</Number>
+    <Year>1979</Year>
+    <Album>Damn the Torpedoes</Album>
+    <Artist>Tom Petty and the Heartbreakers</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Soft Rock, Hard Rock, Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>316</Number>
+    <Year>1969</Year>
+    <Album>The Velvet Underground</Album>
+    <Artist>The Velvet Underground</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Garage Rock, Art Rock, Experimental</Subgenre>
+  </row>
+  <row>
+    <Number>317</Number>
+    <Year>1988</Year>
+    <Album>Surfer Rosa</Album>
+    <Artist>Pixies</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Alternative Rock</Subgenre>
+  </row>
+  <row>
+    <Number>318</Number>
+    <Year>1972</Year>
+    <Album>Back Stabbers</Album>
+    <Artist>The O&apos;Jays</Artist>
+    <Genre>Funk / Soul</Genre>
+    <Subgenre>Soul</Subgenre>
+  </row>
+  <row>
+    <Number>319</Number>
+    <Year>1973</Year>
+    <Album>Burnin&apos;</Album>
+    <Artist>The Wailers</Artist>
+    <Genre>Reggae</Genre>
+    <Subgenre>Reggae</Subgenre>
+  </row>
+  <row>
+    <Number>320</Number>
+    <Year>2001</Year>
+    <Album>Amnesiac</Album>
+    <Artist>Radiohead</Artist>
+    <Genre>Electronic, Rock</Genre>
+    <Subgenre>Alternative Rock, Experimental</Subgenre>
+  </row>
+  <row>
+    <Number>321</Number>
+    <Year>1972</Year>
+    <Album>Pink Moon</Album>
+    <Artist>Nick Drake</Artist>
+    <Genre>Rock, Folk, World, &amp; Country</Genre>
+    <Subgenre>Folk, Folk Rock, Acoustic</Subgenre>
+  </row>
+  <row>
+    <Number>322</Number>
+    <Year>1972</Year>
+    <Album>Sail Away</Album>
+    <Artist>Randy Newman</Artist>
+    <Genre>Rock, Pop</Genre>
+    <Subgenre>None</Subgenre>
+  </row>
+  <row>
+    <Number>323</Number>
+    <Year>1981</Year>
+    <Album>Ghost in the Machine</Album>
+    <Artist>The Police</Artist>
+    <Genre>Rock, Pop</Genre>
+    <Subgenre>Alternative Rock, New Wave, Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>324</Number>
+    <Year>1976</Year>
+    <Album>Station to Station</Album>
+    <Artist>David Bowie</Artist>
+    <Genre>Rock, Funk / Soul</Genre>
+    <Subgenre>Classic Rock, Soul, Funk, Art Rock</Subgenre>
+  </row>
+  <row>
+    <Number>325</Number>
+    <Year>1977</Year>
+    <Album>Slowhand</Album>
+    <Artist>Eric Clapton</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>None</Subgenre>
+  </row>
+  <row>
+    <Number>326</Number>
+    <Year>1989</Year>
+    <Album>Disintegration</Album>
+    <Artist>The Cure</Artist>
+    <Genre>Electronic, Rock</Genre>
+    <Subgenre>New Wave, Alternative Rock</Subgenre>
+  </row>
+  <row>
+    <Number>327</Number>
+    <Year>1993</Year>
+    <Album>Exile in Guyville</Album>
+    <Artist>Liz Phair</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Lo-Fi, Indie Rock</Subgenre>
+  </row>
+  <row>
+    <Number>328</Number>
+    <Year>1988</Year>
+    <Album>Daydream Nation</Album>
+    <Artist>Sonic Youth</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Alternative Rock, Indie Rock</Subgenre>
+  </row>
+  <row>
+    <Number>329</Number>
+    <Year>1986</Year>
+    <Album>In the Jungle Groove</Album>
+    <Artist>James Brown</Artist>
+    <Genre>Funk / Soul</Genre>
+    <Subgenre>Soul, Funk</Subgenre>
+  </row>
+  <row>
+    <Number>330</Number>
+    <Year>1975</Year>
+    <Album>Tonight&apos;s the Night</Album>
+    <Artist>Neil Young</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Blues Rock, Folk Rock, Classic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>331</Number>
+    <Year>1965</Year>
+    <Album>Help!</Album>
+    <Artist>The Beatles</Artist>
+    <Genre>Rock, Stage &amp; Screen</Genre>
+    <Subgenre>Beat, Soundtrack, Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>332</Number>
+    <Year>1982</Year>
+    <Album>Shoot Out the Lights</Album>
+    <Artist>Richard &amp; Linda Thompson</Artist>
+    <Genre>Rock, Folk, World, &amp; Country</Genre>
+    <Subgenre>Folk Rock</Subgenre>
+  </row>
+  <row>
+    <Number>333</Number>
+    <Year>1981</Year>
+    <Album>Wild Gift</Album>
+    <Artist>X</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Rock &amp; Roll, Punk</Subgenre>
+  </row>
+  <row>
+    <Number>334</Number>
+    <Year>1979</Year>
+    <Album>Squeezing Out Sparks</Album>
+    <Artist>Graham Parker &amp; The Rumour</Artist>
+    <Genre>Rock, Blues</Genre>
+    <Subgenre>None</Subgenre>
+  </row>
+  <row>
+    <Number>335</Number>
+    <Year>1994</Year>
+    <Album>Superunknown</Album>
+    <Artist>Soundgarden</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Alternative Rock</Subgenre>
+  </row>
+  <row>
+    <Number>336</Number>
+    <Year>2007</Year>
+    <Album>In Rainbows</Album>
+    <Artist>Radiohead</Artist>
+    <Genre>Electronic, Rock</Genre>
+    <Subgenre>Alternative Rock, Art Rock</Subgenre>
+  </row>
+  <row>
+    <Number>337</Number>
+    <Year>1971</Year>
+    <Album>Aqualung</Album>
+    <Artist>Jethro Tull</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Classic Rock, Prog Rock</Subgenre>
+  </row>
+  <row>
+    <Number>338</Number>
+    <Year>1968</Year>
+    <Album>Cheap Thrills</Album>
+    <Artist>Big Brother &amp; the Holding Company</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Folk Rock, Blues Rock, Psychedelic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>339</Number>
+    <Year>1974</Year>
+    <Album>The Heart of Saturday Night</Album>
+    <Artist>Tom Waits</Artist>
+    <Genre>Jazz, Pop, Folk, World, &amp; Country</Genre>
+    <Subgenre>Contemporary Jazz, Spoken Word</Subgenre>
+  </row>
+  <row>
+    <Number>340</Number>
+    <Year>1981</Year>
+    <Album>Damaged</Album>
+    <Artist>Black Flag</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Hardcore, Punk</Subgenre>
+  </row>
+  <row>
+    <Number>341</Number>
+    <Year>1999</Year>
+    <Album>Play</Album>
+    <Artist>Moby</Artist>
+    <Genre>Electronic</Genre>
+    <Subgenre>Breakbeat, Leftfield, Downtempo</Subgenre>
+  </row>
+  <row>
+    <Number>342</Number>
+    <Year>1990</Year>
+    <Album>Violator</Album>
+    <Artist>Depeche Mode</Artist>
+    <Genre>Electronic</Genre>
+    <Subgenre>Synth-pop</Subgenre>
+  </row>
+  <row>
+    <Number>343</Number>
+    <Year>1977</Year>
+    <Album>Bat Out of Hell</Album>
+    <Artist>Meat Loaf</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>344</Number>
+    <Year>1973</Year>
+    <Album>Berlin</Album>
+    <Artist>Lou Reed</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Hard Rock</Subgenre>
+  </row>
+  <row>
+    <Number>345</Number>
+    <Year>1984</Year>
+    <Album>Stop Making Sense</Album>
+    <Artist>Talking Heads</Artist>
+    <Genre>Rock, Funk / Soul</Genre>
+    <Subgenre>Funk, Indie Rock, New Wave</Subgenre>
+  </row>
+  <row>
+    <Number>346</Number>
+    <Year>1989</Year>
+    <Album>3 Feet High and Rising</Album>
+    <Artist>De La Soul</Artist>
+    <Genre>Hip Hop</Genre>
+    <Subgenre>None</Subgenre>
+  </row>
+  <row>
+    <Number>347</Number>
+    <Year>1967</Year>
+    <Album>The Piper at the Gates of Dawn</Album>
+    <Artist>Pink Floyd</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Psychedelic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>348</Number>
+    <Year>1960</Year>
+    <Album>Muddy Waters at Newport 1960</Album>
+    <Artist>Muddy Waters</Artist>
+    <Genre>Rock, Blues</Genre>
+    <Subgenre>Blues Rock, Chicago Blues</Subgenre>
+  </row>
+  <row>
+    <Number>349</Number>
+    <Year>2003</Year>
+    <Album>The Black Album</Album>
+    <Artist>Jay Z</Artist>
+    <Genre>Hip Hop</Genre>
+    <Subgenre>None</Subgenre>
+  </row>
+  <row>
+    <Number>350</Number>
+    <Year>1966</Year>
+    <Album>Roger the Engineer</Album>
+    <Artist>The Yardbirds</Artist>
+    <Genre>Rock, Blues</Genre>
+    <Subgenre>Blues Rock, Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>351</Number>
+    <Year>1979</Year>
+    <Album>Rust Never Sleeps</Album>
+    <Artist>Neil Young &amp; Crazy Horse</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Hard Rock, Arena Rock</Subgenre>
+  </row>
+  <row>
+    <Number>352</Number>
+    <Year>1985</Year>
+    <Album>Brothers in Arms</Album>
+    <Artist>Dire Straits</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>AOR, Classic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>353</Number>
+    <Year>2010</Year>
+    <Album>My Beautiful Dark Twisted Fantasy</Album>
+    <Artist>Kanye West</Artist>
+    <Genre>Hip Hop</Genre>
+    <Subgenre>None</Subgenre>
+  </row>
+  <row>
+    <Number>354</Number>
+    <Year>1978</Year>
+    <Album>52nd Street</Album>
+    <Artist>Billy Joel</Artist>
+    <Genre>Jazz, Rock, Pop</Genre>
+    <Subgenre>Pop Rock, Ballad, Latin Jazz</Subgenre>
+  </row>
+  <row>
+    <Number>355</Number>
+    <Year>1965</Year>
+    <Album>Having a Rave Up</Album>
+    <Artist>The Yardbirds</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Blues Rock, Psychedelic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>356</Number>
+    <Year>1970</Year>
+    <Album>12 Songs</Album>
+    <Artist>Randy Newman</Artist>
+    <Genre>Rock, Pop</Genre>
+    <Subgenre>Pop Rock, Vocal</Subgenre>
+  </row>
+  <row>
+    <Number>357</Number>
+    <Year>1967</Year>
+    <Album>Between the Buttons</Album>
+    <Artist>The Rolling Stones</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Blues Rock, Psychedelic Rock, Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>358</Number>
+    <Year>1960</Year>
+    <Album>Sketches of Spain</Album>
+    <Artist>Miles Davis</Artist>
+    <Genre>Jazz</Genre>
+    <Subgenre>Modal</Subgenre>
+  </row>
+  <row>
+    <Number>359</Number>
+    <Year>1972</Year>
+    <Album>Honky Ch�teau</Album>
+    <Artist>Elton John</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Pop Rock,�Classic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>360</Number>
+    <Year>1979</Year>
+    <Album>Singles Going Steady</Album>
+    <Artist>Buzzcocks</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Punk</Subgenre>
+  </row>
+  <row>
+    <Number>361</Number>
+    <Year>2000</Year>
+    <Album>Stankonia</Album>
+    <Artist>OutKast</Artist>
+    <Genre>Hip Hop, Funk / Soul</Genre>
+    <Subgenre>Gangsta, P.Funk, Crunk, Conscious</Subgenre>
+  </row>
+  <row>
+    <Number>362</Number>
+    <Year>1993</Year>
+    <Album>Siamese Dream</Album>
+    <Artist>The Smashing Pumpkins</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Alternative Rock</Subgenre>
+  </row>
+  <row>
+    <Number>363</Number>
+    <Year>1987</Year>
+    <Album>Substance 1987</Album>
+    <Artist>New Order</Artist>
+    <Genre>Electronic</Genre>
+    <Subgenre>Synth-pop</Subgenre>
+  </row>
+  <row>
+    <Number>364</Number>
+    <Year>1971</Year>
+    <Album>L.A. Woman</Album>
+    <Artist>The Doors</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Blues Rock, Classic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>365</Number>
+    <Year>1992</Year>
+    <Album>Rage Against the Machine</Album>
+    <Artist>Rage Against the Machine</Artist>
+    <Genre>Hip Hop, Rock</Genre>
+    <Subgenre>Funk Metal</Subgenre>
+  </row>
+  <row>
+    <Number>366</Number>
+    <Year>1994</Year>
+    <Album>American Recordings</Album>
+    <Artist>Johnny Cash</Artist>
+    <Genre>Folk, World, &amp; Country</Genre>
+    <Subgenre>Country, Gospel, Folk</Subgenre>
+  </row>
+  <row>
+    <Number>367</Number>
+    <Year>1998</Year>
+    <Album>Ray of Light</Album>
+    <Artist>Madonna</Artist>
+    <Genre>Electronic, Pop</Genre>
+    <Subgenre>House, Techno, Downtempo, Vocal, Ambient</Subgenre>
+  </row>
+  <row>
+    <Number>368</Number>
+    <Year>1972</Year>
+    <Album>Eagles</Album>
+    <Artist>Eagles</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Country Rock, Classic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>369</Number>
+    <Year>1987</Year>
+    <Album>Louder Than Bombs</Album>
+    <Artist>The Smiths</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Alternative Rock, Indie Rock</Subgenre>
+  </row>
+  <row>
+    <Number>370</Number>
+    <Year>1973</Year>
+    <Album>Mott</Album>
+    <Artist>Mott the Hoople</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Classic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>371</Number>
+    <Year>2006</Year>
+    <Album>Whatever People Say I Am, That&apos;s What I&apos;m Not</Album>
+    <Artist>Arctic Monkeys</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Indie Rock</Subgenre>
+  </row>
+  <row>
+    <Number>372</Number>
+    <Year>1979</Year>
+    <Album>Reggatta de Blanc</Album>
+    <Artist>The Police</Artist>
+    <Genre>Rock, Pop</Genre>
+    <Subgenre>New Wave, Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>373</Number>
+    <Year>1969</Year>
+    <Album>Volunteers</Album>
+    <Artist>Jefferson Airplane</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Psychedelic Rock, Folk Rock, Country Rock, Honky Tonk</Subgenre>
+  </row>
+  <row>
+    <Number>374</Number>
+    <Year>1975</Year>
+    <Album>Siren</Album>
+    <Artist>Roxy Music</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Art Rock, Pop Rock, Glam</Subgenre>
+  </row>
+  <row>
+    <Number>375</Number>
+    <Year>1974</Year>
+    <Album>Late for the Sky</Album>
+    <Artist>Jackson Browne</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>376</Number>
+    <Year>1995</Year>
+    <Album>Post</Album>
+    <Artist>Bjork</Artist>
+    <Genre>Electronic</Genre>
+    <Subgenre>Breakbeat, IDM, Electro</Subgenre>
+  </row>
+  <row>
+    <Number>377</Number>
+    <Year>1991</Year>
+    <Album>The Ultimate Collection: 1948-1990</Album>
+    <Artist>John Lee Hooker</Artist>
+    <Genre>Blues</Genre>
+    <Subgenre>Country Blues, Electric Blues, Chicago Blues, Jump Blues</Subgenre>
+  </row>
+  <row>
+    <Number>378</Number>
+    <Year>1995</Year>
+    <Album>(What&apos;s the Story) Morning Glory?</Album>
+    <Artist>Oasis</Artist>
+    <Genre>Rock, Pop</Genre>
+    <Subgenre>Brit Pop</Subgenre>
+  </row>
+  <row>
+    <Number>379</Number>
+    <Year>1994</Year>
+    <Album>CrazySexyCool</Album>
+    <Artist>TLC</Artist>
+    <Genre>Electronic, Hip Hop, Funk / Soul</Genre>
+    <Subgenre>RnB/Swing</Subgenre>
+  </row>
+  <row>
+    <Number>380</Number>
+    <Year>1973</Year>
+    <Album>Funky Kingston</Album>
+    <Artist>Toots &amp; The Maytals</Artist>
+    <Genre>Reggae</Genre>
+    <Subgenre>Reggae Gospel, Reggae, Roots Reggae, Rocksteady</Subgenre>
+  </row>
+  <row>
+    <Number>381</Number>
+    <Year>2011</Year>
+    <Album>The Smile Sessions</Album>
+    <Artist>The Beach Boys</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Pop Rock, Psychedelic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>382</Number>
+    <Year>1976</Year>
+    <Album>The Modern Lovers</Album>
+    <Artist>The Modern Lovers</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Art Rock, Indie Rock</Subgenre>
+  </row>
+  <row>
+    <Number>383</Number>
+    <Year>1978</Year>
+    <Album>More Songs About Buildings and Food</Album>
+    <Artist>Talking Heads</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>New Wave, Indie Rock</Subgenre>
+  </row>
+  <row>
+    <Number>384</Number>
+    <Year>1966</Year>
+    <Album>A Quick One</Album>
+    <Artist>The Who</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Mod, Beat, Psychedelic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>385</Number>
+    <Year>2001</Year>
+    <Album>&quot;Love and Theft&quot;</Album>
+    <Artist>Bob Dylan</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Folk Rock, Blues Rock</Subgenre>
+  </row>
+  <row>
+    <Number>386</Number>
+    <Year>1974</Year>
+    <Album>Pretzel Logic</Album>
+    <Artist>Steely Dan</Artist>
+    <Genre>Jazz, Rock</Genre>
+    <Subgenre>Jazz-Rock, Pop Rock, Classic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>387</Number>
+    <Year>1993</Year>
+    <Album>Enter the Wu_Tang: 36 Chambers</Album>
+    <Artist>Wu Tang Clan</Artist>
+    <Genre>Hip Hop</Genre>
+    <Subgenre>Gangsta</Subgenre>
+  </row>
+  <row>
+    <Number>388</Number>
+    <Year>1985</Year>
+    <Album>The Indestructible Beat of Soweto</Album>
+    <Artist>Various Artists</Artist>
+    <Genre>Funk / Soul,�Folk, World, &amp; Country</Genre>
+    <Subgenre>African</Subgenre>
+  </row>
+  <row>
+    <Number>389</Number>
+    <Year>1989</Year>
+    <Album>The End of the Innocence</Album>
+    <Artist>Don Henley</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>390</Number>
+    <Year>2003</Year>
+    <Album>Elephant</Album>
+    <Artist>The White Stripes</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Blues Rock, Garage Rock, Alternative Rock</Subgenre>
+  </row>
+  <row>
+    <Number>391</Number>
+    <Year>1976</Year>
+    <Album>The Pretender</Album>
+    <Artist>Jackson Browne</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Soft Rock, Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>392</Number>
+    <Year>1970</Year>
+    <Album>Let It Be</Album>
+    <Artist>The Beatles</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>393</Number>
+    <Year>2007</Year>
+    <Album>Kala</Album>
+    <Artist>M.I.A.</Artist>
+    <Genre>Electronic, Hip Hop, Reggae, Pop</Genre>
+    <Subgenre>Grime, Bollywood, Hip Hop, Dancehall</Subgenre>
+  </row>
+  <row>
+    <Number>394</Number>
+    <Year>1974</Year>
+    <Album>Good Old Boys</Album>
+    <Artist>Randy Newman</Artist>
+    <Genre>Rock, Pop</Genre>
+    <Subgenre>Pop Rock, Vocal</Subgenre>
+  </row>
+  <row>
+    <Number>395</Number>
+    <Year>2007</Year>
+    <Album>Sound of Silver</Album>
+    <Artist>LCD Soundsystem</Artist>
+    <Genre>Electronic, Rock</Genre>
+    <Subgenre>Leftfield, Alternative Rock, Electro, Disco</Subgenre>
+  </row>
+  <row>
+    <Number>396</Number>
+    <Year>1973</Year>
+    <Album>For Your Pleasure</Album>
+    <Artist>Roxy Music</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Art Rock, Avantgarde, Glam</Subgenre>
+  </row>
+  <row>
+    <Number>397</Number>
+    <Year>1991</Year>
+    <Album>Blue Lines</Album>
+    <Artist>Massive Attack</Artist>
+    <Genre>Electronic, Reggae</Genre>
+    <Subgenre>Dub, Downtempo</Subgenre>
+  </row>
+  <row>
+    <Number>398</Number>
+    <Year>1983</Year>
+    <Album>Eliminator</Album>
+    <Artist>ZZ Top</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>399</Number>
+    <Year>1985</Year>
+    <Album>Rain Dogs</Album>
+    <Artist>Tom Waits</Artist>
+    <Genre>Rock, Blues</Genre>
+    <Subgenre>Blues Rock</Subgenre>
+  </row>
+  <row>
+    <Number>400</Number>
+    <Year>1995</Year>
+    <Album>Anthology: The Best of The Temptations</Album>
+    <Artist>The Temptations</Artist>
+    <Genre>Electronic, Funk / Soul</Genre>
+    <Subgenre>Soul, Disco</Subgenre>
+  </row>
+  <row>
+    <Number>401</Number>
+    <Year>1999</Year>
+    <Album>Californication</Album>
+    <Artist>Red Hot Chili Peppers</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Alternative Rock, Funk Metal</Subgenre>
+  </row>
+  <row>
+    <Number>402</Number>
+    <Year>1994</Year>
+    <Album>Illmatic</Album>
+    <Artist>Nas</Artist>
+    <Genre>Hip Hop</Genre>
+    <Subgenre>None</Subgenre>
+  </row>
+  <row>
+    <Number>403</Number>
+    <Year>1973</Year>
+    <Album>(pronounced &apos;leh-&apos;nerd &apos;skin-&apos;nerd)</Album>
+    <Artist>Lynyrd Skynyrd</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Blues Rock, Hard Rock, Southern Rock</Subgenre>
+  </row>
+  <row>
+    <Number>404</Number>
+    <Year>1972</Year>
+    <Album>Dr. John&apos;s Gumbo</Album>
+    <Artist>Dr. John</Artist>
+    <Genre>Funk / Soul</Genre>
+    <Subgenre>Bayou Funk, Funk, Rhythm &amp; Blues</Subgenre>
+  </row>
+  <row>
+    <Number>405</Number>
+    <Year>1974</Year>
+    <Album>Radio City</Album>
+    <Artist>Big Star</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Power Pop</Subgenre>
+  </row>
+  <row>
+    <Number>406</Number>
+    <Year>1993</Year>
+    <Album>Rid of Me</Album>
+    <Artist>PJ Harvey</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Indie Rock</Subgenre>
+  </row>
+  <row>
+    <Number>407</Number>
+    <Year>1980</Year>
+    <Album>Sandinista!</Album>
+    <Artist>The Clash</Artist>
+    <Genre>Rock, Reggae</Genre>
+    <Subgenre>Rock &amp; Roll, Dub, Punk</Subgenre>
+  </row>
+  <row>
+    <Number>408</Number>
+    <Year>1989</Year>
+    <Album>I Do Not Want What I Haven&apos;t Got</Album>
+    <Artist>Sinead O&apos;Connor</Artist>
+    <Genre>Rock, Funk / Soul, Blues</Genre>
+    <Subgenre>Blues Rock, Rhythm &amp; Blues, Soul</Subgenre>
+  </row>
+  <row>
+    <Number>409</Number>
+    <Year>1967</Year>
+    <Album>Strange Days</Album>
+    <Artist>The Doors</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Psychedelic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>410</Number>
+    <Year>1997</Year>
+    <Album>Time Out of Mind</Album>
+    <Artist>Bob Dylan</Artist>
+    <Genre>Rock, Blues</Genre>
+    <Subgenre>Blues Rock</Subgenre>
+  </row>
+  <row>
+    <Number>411</Number>
+    <Year>1974</Year>
+    <Album>461 Ocean Boulevard</Album>
+    <Artist>Eric Clapton</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Blues Rock</Subgenre>
+  </row>
+  <row>
+    <Number>412</Number>
+    <Year>1977</Year>
+    <Album>Pink Flag</Album>
+    <Artist>Wire</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Punk</Subgenre>
+  </row>
+  <row>
+    <Number>413</Number>
+    <Year>1984</Year>
+    <Album>Double Nickels on the Dime</Album>
+    <Artist>Minutemen</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Alternative Rock, Hardcore, Punk</Subgenre>
+  </row>
+  <row>
+    <Number>414</Number>
+    <Year>1981</Year>
+    <Album>Beauty and the Beat</Album>
+    <Artist>The Go Go&apos;s</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>415</Number>
+    <Year>1978</Year>
+    <Album>Van Halen</Album>
+    <Artist>Van Halen</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Hard Rock</Subgenre>
+  </row>
+  <row>
+    <Number>416</Number>
+    <Year>1999</Year>
+    <Album>Mule Variations</Album>
+    <Artist>Tom Waits</Artist>
+    <Genre>Electronic, Rock</Genre>
+    <Subgenre>Abstract, Art Rock</Subgenre>
+  </row>
+  <row>
+    <Number>417</Number>
+    <Year>1980</Year>
+    <Album>Boy</Album>
+    <Artist>U2</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>New Wave, Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>418</Number>
+    <Year>1973</Year>
+    <Album>Band on the Run</Album>
+    <Artist>Paul McCartney &amp; Wings</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>419</Number>
+    <Year>1994</Year>
+    <Album>Dummy</Album>
+    <Artist>Portishead</Artist>
+    <Genre>Electronic</Genre>
+    <Subgenre>Trip Hop, Downtempo</Subgenre>
+  </row>
+  <row>
+    <Number>420</Number>
+    <Year>1957</Year>
+    <Album>The &quot;Chirping&quot; Crickets</Album>
+    <Artist>The Crickets</Artist>
+    <Genre>Rock, Pop</Genre>
+    <Subgenre>Rockabilly, Rock &amp; Roll</Subgenre>
+  </row>
+  <row>
+    <Number>421</Number>
+    <Year>1990</Year>
+    <Album>The Best of the Girl Groups, Volume 1</Album>
+    <Artist>Various Artists</Artist>
+    <Genre>Rock,�Pop</Genre>
+    <Subgenre>Pop Rock, Vocal</Subgenre>
+  </row>
+  <row>
+    <Number>422</Number>
+    <Year>1963</Year>
+    <Album>Presenting the Fabulous Ronettes Featuring Veronica</Album>
+    <Artist>The Ronettes</Artist>
+    <Genre>Rock, Pop</Genre>
+    <Subgenre>Rock &amp; Roll, Vocal</Subgenre>
+  </row>
+  <row>
+    <Number>423</Number>
+    <Year>2001</Year>
+    <Album>Anthology</Album>
+    <Artist>Diana Ross &amp; The Supremes</Artist>
+    <Genre>Electronic, Funk / Soul</Genre>
+    <Subgenre>Pop Rock, Soul, Disco</Subgenre>
+  </row>
+  <row>
+    <Number>424</Number>
+    <Year>2002</Year>
+    <Album>The Rising</Album>
+    <Artist>Bruce Springsteen</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Folk Rock, Classic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>425</Number>
+    <Year>1974</Year>
+    <Album>Grievous Angel</Album>
+    <Artist>Gram Parsons</Artist>
+    <Genre>Rock, Folk, World, &amp; Country</Genre>
+    <Subgenre>Country Rock, Honky Tonk</Subgenre>
+  </row>
+  <row>
+    <Number>426</Number>
+    <Year>1978</Year>
+    <Album>Cheap Trick at Budokan</Album>
+    <Artist>Cheap Trick</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Power Pop, Pop Rock, Arena Rock, Hard Rock</Subgenre>
+  </row>
+  <row>
+    <Number>427</Number>
+    <Year>2002</Year>
+    <Album>Sleepless</Album>
+    <Artist>Peter Wolf</Artist>
+    <Genre>Rock, Blues, Pop</Genre>
+    <Subgenre>Blues Rock, Pop Rock, Ballad</Subgenre>
+  </row>
+  <row>
+    <Number>428</Number>
+    <Year>1978</Year>
+    <Album>Outlandos d&apos;Amour</Album>
+    <Artist>The Police</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Alternative Rock, New Wave, Punk</Subgenre>
+  </row>
+  <row>
+    <Number>429</Number>
+    <Year>1975</Year>
+    <Album>Another Green World</Album>
+    <Artist>Brian Eno</Artist>
+    <Genre>Electronic</Genre>
+    <Subgenre>Experimental, Ambient</Subgenre>
+  </row>
+  <row>
+    <Number>430</Number>
+    <Year>2007</Year>
+    <Album>Vampire Weekend</Album>
+    <Artist>Vampire Weekend</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Indie Rock</Subgenre>
+  </row>
+  <row>
+    <Number>431</Number>
+    <Year>2000</Year>
+    <Album>Stories From the City, Stories From the Sea</Album>
+    <Artist>PJ Harvey</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Indie Rock</Subgenre>
+  </row>
+  <row>
+    <Number>432</Number>
+    <Year>1973</Year>
+    <Album>Here Come the Warm Jets</Album>
+    <Artist>Brian Eno</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Art Rock, Glam</Subgenre>
+  </row>
+  <row>
+    <Number>433</Number>
+    <Year>1970</Year>
+    <Album>All Things Must Pass</Album>
+    <Artist>George Harrison</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>434</Number>
+    <Year>1972</Year>
+    <Album>#1 Record</Album>
+    <Artist>Big Star</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Power Pop</Subgenre>
+  </row>
+  <row>
+    <Number>435</Number>
+    <Year>1993</Year>
+    <Album>In Utero</Album>
+    <Artist>Nirvana</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Grunge, Alternative Rock</Subgenre>
+  </row>
+  <row>
+    <Number>436</Number>
+    <Year>2002</Year>
+    <Album>Sea Change</Album>
+    <Artist>Beck</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Alternative Rock, Post Rock</Subgenre>
+  </row>
+  <row>
+    <Number>437</Number>
+    <Year>2008</Year>
+    <Album>Tha Carter III</Album>
+    <Artist>Lil Wayne</Artist>
+    <Genre>Hip Hop, Funk / Soul</Genre>
+    <Subgenre>RnB/Swing, Screw, Pop Rap, Thug Rap</Subgenre>
+  </row>
+  <row>
+    <Number>438</Number>
+    <Year>1979</Year>
+    <Album>Boys Don&apos;t Cry</Album>
+    <Artist>The Cure</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>New Wave, Post-Punk</Subgenre>
+  </row>
+  <row>
+    <Number>439</Number>
+    <Year>1985</Year>
+    <Album>Live at the Harlem Square Club, 1963</Album>
+    <Artist>Sam Cooke</Artist>
+    <Genre>Funk / Soul</Genre>
+    <Subgenre>Soul</Subgenre>
+  </row>
+  <row>
+    <Number>440</Number>
+    <Year>1985</Year>
+    <Album>Rum Sodomy &amp; the Lash</Album>
+    <Artist>The Pogues</Artist>
+    <Genre>Rock, Folk, World, &amp; Country</Genre>
+    <Subgenre>Folk Rock, Celtic, Punk</Subgenre>
+  </row>
+  <row>
+    <Number>441</Number>
+    <Year>1977</Year>
+    <Album>Suicide</Album>
+    <Artist>Suicide</Artist>
+    <Genre>Electronic, Rock</Genre>
+    <Subgenre>New Wave, Experimental</Subgenre>
+  </row>
+  <row>
+    <Number>442</Number>
+    <Year>1978</Year>
+    <Album>Q: Are We Not Men? A: We Are Devo!</Album>
+    <Artist>DEVO</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>New Wave</Subgenre>
+  </row>
+  <row>
+    <Number>443</Number>
+    <Year>1977</Year>
+    <Album>In Color</Album>
+    <Artist>Cheap Trick</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Power Pop, Pop Rock, Hard Rock</Subgenre>
+  </row>
+  <row>
+    <Number>444</Number>
+    <Year>1972</Year>
+    <Album>The World Is a Ghetto</Album>
+    <Artist>War</Artist>
+    <Genre>Funk / Soul</Genre>
+    <Subgenre>Funk</Subgenre>
+  </row>
+  <row>
+    <Number>445</Number>
+    <Year>1976</Year>
+    <Album>Fly Like an Eagle</Album>
+    <Artist>Steve Miller Band</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>446</Number>
+    <Year>1970</Year>
+    <Album>Back in the USA</Album>
+    <Artist>MC5</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Garage Rock, Rock &amp; Roll</Subgenre>
+  </row>
+  <row>
+    <Number>447</Number>
+    <Year>1964</Year>
+    <Album>Getz / Gilberto</Album>
+    <Artist>Stan Getz�/�Joao Gilberto�featuring�Antonio Carlos Jobim</Artist>
+    <Genre>Jazz</Genre>
+    <Subgenre>Bossa Nova,�Latin Jazz</Subgenre>
+  </row>
+  <row>
+    <Number>448</Number>
+    <Year>1983</Year>
+    <Album>Synchronicity</Album>
+    <Artist>The Police</Artist>
+    <Genre>Rock, Pop</Genre>
+    <Subgenre>New Wave, Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>449</Number>
+    <Year>1978</Year>
+    <Album>Third/Sister Lovers</Album>
+    <Artist>Big Star</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Lo-Fi,�Indie Rock</Subgenre>
+  </row>
+  <row>
+    <Number>450</Number>
+    <Year>1973</Year>
+    <Album>For Everyman</Album>
+    <Artist>Jackson Browne</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Pop Rock, Classic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>451</Number>
+    <Year>2006</Year>
+    <Album>Back to Black</Album>
+    <Artist>Amy Winehouse</Artist>
+    <Genre>Funk / Soul, Pop</Genre>
+    <Subgenre>Soul</Subgenre>
+  </row>
+  <row>
+    <Number>452</Number>
+    <Year>1971</Year>
+    <Album>John Prine</Album>
+    <Artist>John Prine</Artist>
+    <Genre>Folk, World, &amp; Country</Genre>
+    <Subgenre>Country, Folk</Subgenre>
+  </row>
+  <row>
+    <Number>453</Number>
+    <Year>1987</Year>
+    <Album>Strictly Business</Album>
+    <Artist>EPMD</Artist>
+    <Genre>Hip Hop</Genre>
+    <Subgenre>None</Subgenre>
+  </row>
+  <row>
+    <Number>454</Number>
+    <Year>1971</Year>
+    <Album>Love It to Death</Album>
+    <Artist>Alice Cooper</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Classic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>455</Number>
+    <Year>1984</Year>
+    <Album>How Will the Wolf Survive?</Album>
+    <Artist>Los Lobos</Artist>
+    <Genre>Rock, Latin</Genre>
+    <Subgenre>Blues Rock</Subgenre>
+  </row>
+  <row>
+    <Number>456</Number>
+    <Year>1978</Year>
+    <Album>Here, My Dear</Album>
+    <Artist>Marvin Gaye</Artist>
+    <Genre>Funk / Soul</Genre>
+    <Subgenre>Soul</Subgenre>
+  </row>
+  <row>
+    <Number>457</Number>
+    <Year>2005</Year>
+    <Album>Z</Album>
+    <Artist>My Morning Jacket</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Alternative Rock</Subgenre>
+  </row>
+  <row>
+    <Number>458</Number>
+    <Year>1970</Year>
+    <Album>Tumbleweed Connection</Album>
+    <Artist>Elton John</Artist>
+    <Genre>Rock, Folk, World, &amp; Country</Genre>
+    <Subgenre>Soft Rock, Country Rock</Subgenre>
+  </row>
+  <row>
+    <Number>459</Number>
+    <Year>1968</Year>
+    <Album>The Drifters&apos; Golden Hits</Album>
+    <Artist>The Drifters</Artist>
+    <Genre>Rock, Funk / Soul</Genre>
+    <Subgenre>Rhythm &amp; Blues, Soul</Subgenre>
+  </row>
+  <row>
+    <Number>460</Number>
+    <Year>1994</Year>
+    <Album>Live Through This</Album>
+    <Artist>Hole</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Grunge</Subgenre>
+  </row>
+  <row>
+    <Number>461</Number>
+    <Year>1979</Year>
+    <Album>Metal Box</Album>
+    <Artist>Public Image Ltd.</Artist>
+    <Genre>Electronic, Rock</Genre>
+    <Subgenre>Post-Punk, Dub, Avantgarde, Experimental</Subgenre>
+  </row>
+  <row>
+    <Number>462</Number>
+    <Year>1987</Year>
+    <Album>Document</Album>
+    <Artist>R.E.M.</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>None</Subgenre>
+  </row>
+  <row>
+    <Number>463</Number>
+    <Year>1981</Year>
+    <Album>Heaven Up Here</Album>
+    <Artist>Echo and The Bunnymen</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>New Wave, Indie Rock</Subgenre>
+  </row>
+  <row>
+    <Number>464</Number>
+    <Year>1987</Year>
+    <Album>Hysteria</Album>
+    <Artist>Def Leppard</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Hard Rock, Arena Rock</Subgenre>
+  </row>
+  <row>
+    <Number>465</Number>
+    <Year>1999</Year>
+    <Album>69 Love Songs</Album>
+    <Artist>The Magnetic Fields</Artist>
+    <Genre>Electronic, Rock</Genre>
+    <Subgenre>Synth-pop, Indie Rock</Subgenre>
+  </row>
+  <row>
+    <Number>466</Number>
+    <Year>2002</Year>
+    <Album>A Rush of Blood to the Head</Album>
+    <Artist>Coldplay</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Alternative Rock, Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>467</Number>
+    <Year>1987</Year>
+    <Album>Tunnel of Love</Album>
+    <Artist>Bruce Springsteen</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>None</Subgenre>
+  </row>
+  <row>
+    <Number>468</Number>
+    <Year>1965</Year>
+    <Album>The Paul Butterfield Blues Band</Album>
+    <Artist>The Paul Butterfield Blues Band</Artist>
+    <Genre>Rock, Blues</Genre>
+    <Subgenre>Blues Rock, Electric Blues, Chicago Blues, Modern Electric Blues, Harmonica Blues</Subgenre>
+  </row>
+  <row>
+    <Number>469</Number>
+    <Year>1996</Year>
+    <Album>The Score</Album>
+    <Artist>Fugees</Artist>
+    <Genre>Hip Hop</Genre>
+    <Subgenre>Pop Rap, Conscious</Subgenre>
+  </row>
+  <row>
+    <Number>470</Number>
+    <Year>1985</Year>
+    <Album>Radio</Album>
+    <Artist>L.L. Cool J</Artist>
+    <Genre>Hip Hop</Genre>
+    <Subgenre>None</Subgenre>
+  </row>
+  <row>
+    <Number>471</Number>
+    <Year>1974</Year>
+    <Album>I Want to See the Bright Lights Tonight</Album>
+    <Artist>Richard &amp; Linda Thompson</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Classic Rock, Folk Rock</Subgenre>
+  </row>
+  <row>
+    <Number>472</Number>
+    <Year>1987</Year>
+    <Album>Faith</Album>
+    <Artist>George Michael</Artist>
+    <Genre>Electronic, Rock, Funk / Soul, Blues, Pop</Genre>
+    <Subgenre>Downtempo, Soft Rock, Pop Rock, Synth-pop</Subgenre>
+  </row>
+  <row>
+    <Number>473</Number>
+    <Year>1984</Year>
+    <Album>The Smiths</Album>
+    <Artist>The Smiths</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Indie Rock</Subgenre>
+  </row>
+  <row>
+    <Number>474</Number>
+    <Year>2001</Year>
+    <Album>Proxima estacion: Esperanza</Album>
+    <Artist>Manu Chao</Artist>
+    <Genre>Rock, Reggae, Latin</Genre>
+    <Subgenre>Folk Rock, Reggae, Reggae-Pop</Subgenre>
+  </row>
+  <row>
+    <Number>475</Number>
+    <Year>1979</Year>
+    <Album>Armed Forces</Album>
+    <Artist>Elvis Costello &amp; The Attractions</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>New Wave, Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>476</Number>
+    <Year>1997</Year>
+    <Album>Life After Death</Album>
+    <Artist>The Notorious B.I.G.</Artist>
+    <Genre>Hip Hop</Genre>
+    <Subgenre>None</Subgenre>
+  </row>
+  <row>
+    <Number>477</Number>
+    <Year>1996</Year>
+    <Album>Down Every Road</Album>
+    <Artist>Merle Haggard</Artist>
+    <Genre>Folk, World, &amp; Country</Genre>
+    <Subgenre>Country</Subgenre>
+  </row>
+  <row>
+    <Number>478</Number>
+    <Year>2002</Year>
+    <Album>All Time Greatest Hits</Album>
+    <Artist>Loretta Lynn</Artist>
+    <Genre>Folk, World, &amp; Country</Genre>
+    <Subgenre>Country</Subgenre>
+  </row>
+  <row>
+    <Number>479</Number>
+    <Year>1971</Year>
+    <Album>Maggot Brain</Album>
+    <Artist>Funkadelic</Artist>
+    <Genre>Rock, Funk / Soul</Genre>
+    <Subgenre>P.Funk, Psychedelic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>480</Number>
+    <Year>1995</Year>
+    <Album>Only Built 4 Cuban Linx</Album>
+    <Artist>Raekwon</Artist>
+    <Genre>Hip Hop</Genre>
+    <Subgenre>None</Subgenre>
+  </row>
+  <row>
+    <Number>481</Number>
+    <Year>2000</Year>
+    <Album>Voodoo</Album>
+    <Artist>D&apos;Angelo</Artist>
+    <Genre>Hip Hop, Funk / Soul</Genre>
+    <Subgenre>Soul, Funk, Neo Soul</Subgenre>
+  </row>
+  <row>
+    <Number>482</Number>
+    <Year>1986</Year>
+    <Album>Guitar Town</Album>
+    <Artist>Steve Earle</Artist>
+    <Genre>Rock, Folk, World, &amp; Country</Genre>
+    <Subgenre>Country, Honky Tonk</Subgenre>
+  </row>
+  <row>
+    <Number>483</Number>
+    <Year>1979</Year>
+    <Album>Entertainment!</Album>
+    <Artist>Gang of Four</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Post-Punk, New Wave</Subgenre>
+  </row>
+  <row>
+    <Number>484</Number>
+    <Year>1972</Year>
+    <Album>All the Young Dudes</Album>
+    <Artist>Mott the Hoople</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Classic Rock, Glam</Subgenre>
+  </row>
+  <row>
+    <Number>485</Number>
+    <Year>1994</Year>
+    <Album>Vitalogy</Album>
+    <Artist>Pearl Jam</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Alternative Rock, Hard Rock</Subgenre>
+  </row>
+  <row>
+    <Number>486</Number>
+    <Year>1975</Year>
+    <Album>That&apos;s the Way of the World</Album>
+    <Artist>Earth, Wind &amp; Fire</Artist>
+    <Genre>Funk / Soul</Genre>
+    <Subgenre>Soul, Funk, Disco</Subgenre>
+  </row>
+  <row>
+    <Number>487</Number>
+    <Year>1983</Year>
+    <Album>She&apos;s So Unusual</Album>
+    <Artist>Cyndi Lauper</Artist>
+    <Genre>Electronic, Rock</Genre>
+    <Subgenre>Pop Rock, Synth-pop</Subgenre>
+  </row>
+  <row>
+    <Number>488</Number>
+    <Year>1985</Year>
+    <Album>New Day Rising</Album>
+    <Artist>Husker Du</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Alternative Rock, Hardcore, Punk</Subgenre>
+  </row>
+  <row>
+    <Number>489</Number>
+    <Year>1976</Year>
+    <Album>Destroyer</Album>
+    <Artist>KISS</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Hard Rock</Subgenre>
+  </row>
+  <row>
+    <Number>490</Number>
+    <Year>1973</Year>
+    <Album>Tres hombres</Album>
+    <Artist>ZZ Top</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Blues Rock, Classic Rock</Subgenre>
+  </row>
+  <row>
+    <Number>491</Number>
+    <Year>1967</Year>
+    <Album>Born Under a Bad Sign</Album>
+    <Artist>Albert King</Artist>
+    <Genre>Funk / Soul, Blues</Genre>
+    <Subgenre>Electric Blues, Rhythm &amp; Blues, Soul</Subgenre>
+  </row>
+  <row>
+    <Number>492</Number>
+    <Year>1983</Year>
+    <Album>Touch</Album>
+    <Artist>Eurythmics</Artist>
+    <Genre>Electronic, Pop</Genre>
+    <Subgenre>New Wave, Synth-pop</Subgenre>
+  </row>
+  <row>
+    <Number>493</Number>
+    <Year>2002</Year>
+    <Album>Yankee Hotel Foxtrot</Album>
+    <Artist>Wilco</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Alternative Rock</Subgenre>
+  </row>
+  <row>
+    <Number>494</Number>
+    <Year>2007</Year>
+    <Album>Oracular Spectacular</Album>
+    <Artist>MGMT</Artist>
+    <Genre>Electronic, Rock, Pop</Genre>
+    <Subgenre>Synth-pop, Indie Rock</Subgenre>
+  </row>
+  <row>
+    <Number>495</Number>
+    <Year>1972</Year>
+    <Album>Give It Up</Album>
+    <Artist>Bonnie Raitt</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Blues Rock</Subgenre>
+  </row>
+  <row>
+    <Number>496</Number>
+    <Year>1969</Year>
+    <Album>Boz Scaggs</Album>
+    <Artist>Boz Scaggs</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Pop Rock</Subgenre>
+  </row>
+  <row>
+    <Number>497</Number>
+    <Year>2001</Year>
+    <Album>White Blood Cells</Album>
+    <Artist>The White Stripes</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Indie Rock, Alternative Rock, Blues Rock, Garage Rock</Subgenre>
+  </row>
+  <row>
+    <Number>498</Number>
+    <Year>1989</Year>
+    <Album>The Stone Roses</Album>
+    <Artist>The Stone Roses</Artist>
+    <Genre>Rock</Genre>
+    <Subgenre>Indie Rock</Subgenre>
+  </row>
+  <row>
+    <Number>499</Number>
+    <Year>1971</Year>
+    <Album>Live in Cook County Jail</Album>
+    <Artist>B.B. King</Artist>
+    <Genre>Blues</Genre>
+    <Subgenre>Electric Blues</Subgenre>
+  </row>
+  <row>
+    <Number>500</Number>
+    <Year>1998</Year>
+    <Album>Aquemini</Album>
+    <Artist>OutKast</Artist>
+    <Genre>Hip Hop</Genre>
+    <Subgenre>Reggae, Gangsta, Soul, Conscious</Subgenre>
+  </row>
+</root>
